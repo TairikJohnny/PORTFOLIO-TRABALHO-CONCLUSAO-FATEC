@@ -4,8 +4,10 @@
 
 ### Resumo do Projeto
 
-#### Nome do Sistema
+#### Nome do Sistema e o logo
+
 AgendHouse 📅
+<p> <img src="logo_agendhouse.png" alt="AgendHouse" class="center" width=600/> </p>
 
 #### Resumo
 
