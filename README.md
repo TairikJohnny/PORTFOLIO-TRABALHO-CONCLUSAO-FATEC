@@ -1,4 +1,4 @@
-# Portfolio dos APIs (Aprendizagem por Projetos Integrados) do Curso Superior de Tecnologia em Banco de Dados - Fatec São José dos Campos - Professor Jessen Vidal
+# Portfólio dos APIs (Aprendizagem por Projetos Integrados) do Curso Superior de Tecnologia em Banco de Dados - Fatec São José dos Campos - Professor Jessen Vidal
 
 ## API 4º SEMESTRE
 
@@ -111,4 +111,198 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </v-form>
 ```
 
+<p align="center"> Tela para um usuário externo criar uma conta no sistema </p>
+<p align="center"> <img src="tela_criar_conta.png" alt="tela de criação de conta" class="center" width=800/> </p>
+
+```bash
+<v-form
+  ref="form"
+  v-model="valid"
+  lazy-validation
+  @submit.prevent="cadastrar_usuario"
+>
+  <v-container>
+    <v-row justify="center">
+      <v-col cols="24">
+        <span style="color: white; font-size: 18px">Nome</span>
+        <v-text-field
+          label="Nome"
+          v-model="usuario.nome"
+          :rules="regra_nome"
+          single-line
+          solo
+          required
+          dense
+          background-color="#A9A9A9"
+        ></v-text-field>
+      </v-col>
+    </v-row>
+    <v-row justify="center">
+      <v-col cols="24">
+        <span style="color: white; font-size: 18px"
+          >E-mail</span
+        >
+        <v-text-field
+          label="E-mail"
+          v-model="usuario.email"
+          :rules="regra_email"
+          single-line
+          solo
+          required
+          dense
+          background-color="#A9A9A9"
+        ></v-text-field>
+      </v-col>
+    </v-row>
+    <v-row justify="center">
+      <v-col cols="24">
+        <span style="color: white; font-size: 18px">Senha</span>
+        <v-text-field
+          label="Senha"
+          v-model="usuario.senha"
+          :rules="regra_senha"
+          background-color="#A9A9A9"
+          single-line
+          solo
+          required
+          dense
+          password
+          :append-icon="show1 ? 'mdi-eye' : 'mdi-eye-off'"
+          :type="show1 ? 'text' : 'password'"
+          @click:append="show1 = !show1"
+        ></v-text-field>
+      </v-col>
+    </v-row>
+    <v-row>
+      <v-col></v-col>
+      <v-col>
+        <v-btn text color="white" :to="{ name: 'Login' }"
+          >Cancelar</v-btn
+        >
+      </v-col>
+      <v-col>
+        <v-btn
+          color="#C84634"
+          class="white--text mr-4"
+          type="submit"
+          :disabled="!valid"
+          @click="validate"
+        >
+          Salvar
+        </v-btn>
+      </v-col>
+    </v-row>
+  </v-container>
+</v-form>
+```
+
+<p align="center"> Tela de gerenciamento de Usuário (CRUD)</p>
+<p align="center"> <img src="tela_usuario_1.png" alt="tela de gerenciamento de usuário" class="center" width=800/> </p>
+<p align="center"> <img src="tela_usuario_2.png" alt="tela de gerenciamento de usuário" class="center" width=800/> </p>
+
+```bash
+// Método de cadastro de usuario
+cadastrar_usuario() {
+  // Se o usuario não tiver um "cod" significa que esse usuario não existe então ele vai pra resquest de cadastro
+  if (!this.usuario.cod) {
+    Usuario.salvar_usuario(this.usuario)
+      .then((resposta_cadastro_usuario) => {
+        this.usuario = {};
+        Swal.fire(
+          "Sucesso",
+          "Usuário " +
+            resposta_cadastro_usuario.data.nome +
+            " cadastrado com sucesso!!!",
+          "success"
+        );
+        this.exibir_usuario();
+      })
+      .catch((e) => {
+        Swal.fire(
+          "Oops...",
+          "Erro ao cadastrar o usuário! - Erro: " + e.response.data.error,
+          "error"
+        );
+      });
+    this.close();
+  } else {
+    // Método de atualizar usuario
+    // Se o usuario já tiver um "cod" ele já existe então ele vai pra request de atualizar
+    Usuario.atualizar_usuario(this.usuario)
+      .then((resposta_atualizar_usuario) => {
+        this.usuario = {};
+        Swal.fire(
+          "Sucesso",
+          "Usuário " +
+            resposta_atualizar_usuario.data.nome +
+            " atualizado com sucesso!!!",
+          "success"
+        );
+        this.exibir_usuario();
+      })
+      .catch((e) => {
+        Swal.fire(
+          "Oops...",
+          "Erro ao atualizar o usuário! - Erro: " + e.response.data.error,
+          "error"
+        );
+      });
+    this.close();
+  }
+},
+```
+
+<p align="center"> Tela de Fornecedor</p>
+<p align="center"> <img src="tela_fornecedor_1.png" alt="tela de fornecedor" class="center" width=800/> </p>
+
+<p align="center"> Tela de Agendamento de Evento</p>
+<p align="center"> <img src="tela_evento_1.png" alt="tela de agendamento de evento" class="center" width=800/> </p>
+
+```bash
+// Método pra exibir os eventos
+exibir_evento() {
+  Evento.listar_eventos()
+    .then((resposta_lista_evento) => {
+      this.lista_de_eventos = resposta_lista_evento.data;
+    })
+    .catch((e) => {
+      Swal.fire(
+        "Oops...",
+        "Erro ao carregar a tabela de eventos! - Erro: " +
+          e.response.data.error,
+        "error"
+      );
+    });
+},
+```
+
+<p align="center"> Tela de Visitante (CRUD)</p>
+<p align="center"> <img src="tela_visitante_1.png" alt="tela de agendamento de visitante" class="center" width=800/> </p>
+<p align="center"> <img src="tela_visitante_2.png" alt="tela de agendamento de visitante" class="center" width=800/> </p>
+
+```bash
+// Método pra excluir os visitantes
+deletar_visitante(visitante) {
+  Visitante.excluir_visitante(visitante)
+    .then((resposta_excluir_visitante) => {
+      Swal.fire("Sucesso", "Visitante excluido com sucesso!!!", "success");
+      resposta_excluir_visitante;
+      this.exibir_visitante();
+    })
+    .catch((e) => {
+      Swal.fire(
+        "Oops...",
+        "Erro ao excluir o visitante! - Erro: " + e.response.data.error,
+        "error"
+      );
+    });
+  this.closeDelete();
+},
+```
+
 ### Aprendizados Efetivos
+
+- Aprofundei meus conhecimentos no framework Vuejs como um todo.
+- Aprendi a trabalhar com API REST no Vuejs.
+- Aprendi a trabalhar com gerencimento de Organizações e Repositórios no GitHub.
+- Aprendi como é gerenciar uma equipe através do método SCRUM.
