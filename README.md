@@ -58,9 +58,57 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - Trabalhei principalmente no Front-end desenvolvendo as telas e consumindo as API REST, programei cerca de 80% do front-end.
  - Dei a ideia de ser utilizado o Vuejs como framework web.
  - Ajudei alguns integrantes que não conheciam o framework Vuejs.
+ - Fiz todo o gerenciamento do GitHub, como acessos ao repositorio e gerenciamento de branchs.
  
 #### Telas desenvolvidas por mim
 
+<p align="center"> Tela de Login </p>
+<p align="center"> <img src="tela_login.png" alt="tela de login" class="center" width=800/> </p>
 
+```bash
+<v-form
+  ref="form"
+  v-model="valid"
+  lazy-validation
+  @submit.prevent="do_login"
+>
+  <span style="color: white; font-size: 18px">E-mail</span>
+  <v-text-field
+    label="Email"
+    v-model="usuario.email"
+    :rules="regra_email"
+    single-line
+    solo
+    required
+    dense
+    background-color="#A9A9A9"
+  ></v-text-field>
+  <span style="color: white; font-size: 18px">Senha</span>
+  <v-text-field
+    label="Senha"
+    v-model="usuario.senha"
+    :rules="regra_senha"
+    background-color="#A9A9A9"
+    single-line
+    solo
+    required
+    dense
+    password
+    :append-icon="show1 ? 'mdi-eye' : 'mdi-eye-off'"
+    :type="show1 ? 'text' : 'password'"
+    @click:append="show1 = !show1"
+  ></v-text-field>
+  <v-btn
+    id="botao-login"
+    block
+    color="#C84634"
+    type="submit"
+    class="white--text"
+    :disabled="!valid"
+    @click="validate"
+    >Login</v-btn
+  >
+</v-form>
+```
 
 ### Aprendizados Efetivos
