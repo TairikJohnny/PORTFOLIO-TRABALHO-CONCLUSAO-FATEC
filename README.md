@@ -61,6 +61,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
  - Dei a ideia de ser utilizado o Vuejs como framework web.
  - Ajudei alguns integrantes que não conheciam o framework Vuejs.
  - Fiz todo o gerenciamento do GitHub, como acessos ao repositorio e gerenciamento de branchs.
+ - Exercendo o papel de Scrum Master eu ajudei a gerenciar a equipe e o projeto, marcando as reuniões e seguindo os rituais da metodologia SCRUM.
  
 #### Telas desenvolvidas por mim
 
@@ -308,3 +309,6 @@ deletar_visitante(visitante) {
 - Aprendi a trabalhar com API REST no Vuejs.
 - Aprendi a trabalhar com gerencimento de Organizações e Repositórios no GitHub.
 - Aprendi como é gerenciar uma equipe através do método SCRUM.
+- Aprofundei os meus conhecimentos na padrão de projetos MVC, o seu princípio básico é a divisão da aplicação em três camadas: a camada de interação do usuário (view), a camada de manipulação dos dados (model) e a camada de controle (controller).
+- Como utilizamos um framework Javascript para facilitar a programação eu aprofundei os meus conhecimentos no padrão de projetos Facade que é um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes.
+- Como utlizamos o framework Javascript Vuejs aonde temos a estrutura de componentes compondo componentes eu aprofundei os meus conhecimentos no padrão de projetos Composite que é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
