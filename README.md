@@ -34,7 +34,7 @@ Atualmente tenho 22 anos e sou Desenvolvedor Full Stack Junior na empresa [Grupo
 <br>
 <br>
 
-<h1 align="center">API 1º SEMESTRE</h1>
+<h1 align="center">API 1º SEMESTRE - 2020-1</h1>
 
 <h3 align="center">Resumo do Projeto</h3>
 
@@ -47,6 +47,26 @@ NUNA, sua assistente de voz para viagens
 <p align="center">Resumo</p>
 
 Uma assistente guiada por comando de voz para auxiliá-lo em sua viagem e estadia.
+
+<div style="display: flex; justify-content: space-evenly">
+<div style="float: left; width: 50%">
+
+### Hard Skills Desenvolvidas
+- Versionamento de código com GIT;
+- Programei utilizando JavaScript e HTML;
+- Aprendi sobre a metodologia ágel Scrum.
+</div>
+
+<div style="float: right; width: 50%">
+
+### Soft Skills Desenvolvidas
+ - Autonomia;
+ - Trabalho em equipe;
+ - Confiança;
+ - Organização.
+</div>
+</div>
+
 
 <p align="center">Projeto 🖥</p>
 
@@ -141,7 +161,7 @@ function fetchApi(url) {
 - [x] Gestão do tempo
 - [x] Confiança
 
-<h1 align="center">API 2º SEMESTRE</h1>
+<h1 align="center">API 2º SEMESTRE - 2020-2</h1>
 
 <h3 align="center">Resumo do Projeto</h3>
 
@@ -259,7 +279,7 @@ public void update() throws SQLException {
 - [x] Gestão do tempo
 - [x] Confiança
 
-<h1 align="center">API 3º SEMESTRE</h1>
+<h1 align="center">API 3º SEMESTRE - 2021-1</h1>
 
 <h3 align="center">Resumo do Projeto</h3>
 
@@ -369,7 +389,7 @@ closeReview() {
 - [x] Gestão do tempo
 - [x] Confiança
 
-<h1 align="center">API 4º SEMESTRE</h1>
+<h1 align="center">API 4º SEMESTRE - 2021-2</h1>
 
 <h3 align="center">Resumo do Projeto</h3>
 
