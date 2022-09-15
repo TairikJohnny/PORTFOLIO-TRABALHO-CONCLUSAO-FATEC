@@ -51,21 +51,6 @@ Uma assistente guiada por comando de voz para auxiliá-lo em sua viagem e estadi
 <div style="display: flex; justify-content: space-evenly">
 <div>
 
-### Hard Skills Desenvolvidas
-- Versionamento de código com GIT;
-- Programei utilizando JavaScript e HTML;
-- Aprendi sobre a metodologia ágel Scrum.
-</div>
-
-<div>
-
-### Soft Skills Desenvolvidas
- - Autonomia;
- - Trabalho em equipe;
- - Confiança;
- - Organização.
-</div>
-</div>
 
 
 <p align="center">Projeto 🖥</p>
