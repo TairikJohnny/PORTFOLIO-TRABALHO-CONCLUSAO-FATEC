@@ -48,11 +48,6 @@ NUNA, sua assistente de voz para viagens
 
 Uma assistente guiada por comando de voz para auxiliá-lo em sua viagem e estadia.
 
-<div style="display: flex; justify-content: space-evenly">
-<div>
-
-
-
 <p align="center">Projeto 🖥</p>
 
 Projeto proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
