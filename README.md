@@ -49,7 +49,7 @@ NUNA, sua assistente de voz para viagens
 Uma assistente guiada por comando de voz para auxiliá-lo em sua viagem e estadia.
 
 <div style="display: flex; justify-content: space-evenly">
-<div style="float: left; width: 50%">
+<div>
 
 ### Hard Skills Desenvolvidas
 - Versionamento de código com GIT;
@@ -57,7 +57,7 @@ Uma assistente guiada por comando de voz para auxiliá-lo em sua viagem e estadi
 - Aprendi sobre a metodologia ágel Scrum.
 </div>
 
-<div style="float: right; width: 50%">
+<div>
 
 ### Soft Skills Desenvolvidas
  - Autonomia;
