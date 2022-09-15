@@ -36,15 +36,13 @@ Atualmente tenho 22 anos e sou Desenvolvedor Full Stack Junior na empresa [Grupo
 
 <h1 align="center">API 1º SEMESTRE - 2020-1</h1>
 
-<h3 align="center">Resumo do Projeto</h3>
-
 <p align="center"> <img src="imagens-1-semestre/logo.png" alt="AgendHouse" class="center" width=150/> </p>
 
 <h2 align="center">
 NUNA, sua assistente de voz para viagens
 </h2>
 
-<p align="center">Resumo</p>
+<h4 align="center">Resumo 📋</h4>
 
 Uma assistente guiada por comando de voz para auxiliá-lo em sua viagem e estadia.
 
