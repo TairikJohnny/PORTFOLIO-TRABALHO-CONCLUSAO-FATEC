@@ -257,7 +257,7 @@ public void update() throws SQLException {
 
 <h1 align="center">API 3º SEMESTRE - 2021-1</h1>
 
-<p align="center"> <img src="imagens-3-semestre/logo-mom.png" alt="AgendHouse" class="center" width=150/> </p>
+<p align="center"> <img src="imagens-3-semestre/logo-mom.png" alt="MOM" class="center" width=200/> </p>
 
 <h2 align="center">
 MOM - Management of Operational Manuals
@@ -265,11 +265,11 @@ MOM - Management of Operational Manuals
 
 <h4 align="center">Resumo 📋</h4>
 
-Software para gerenciamento de manuais operacionais de aviação.
+Software para gerenciamento e customização de manuais operacionais da aviação.
 
 <h4 align="center">Projeto 🖥</h4>
 
-Projeto proposto pelo Time de Publicação Operacional, da indústria aeronáutica, responsáveis por emitir, aprovar e revisar os manuais operacionais de aviação, destinados a pilotos, tripulação, despatcher de aeronaves e provedores de treinamento para resolução de um problema real enfrentado no gerenciamento dos manuais dos aviões.
+Projeto proposto pelo Time de Publicação Operacional da [Embraer](https://embraer.com/br/pt), responsáveis por emitir, aprovar e revisar os manuais operacionais de aviação, destinados a pilotos, tripulação, despatcher de aeronaves e provedores de treinamento juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
 
 <h4 align="center">Desafio 📈</h4>
 
@@ -278,7 +278,6 @@ Desenvolver um sistema que permita customizar, controlar e revisar documentos fo
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
 <div align="center">
-
 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
   <img src="https://img.shields.io/static/v1?label=Vue.js&message=Front-End&color=4FC08D&style=for-the-badge&logo=Vue.js"/>
