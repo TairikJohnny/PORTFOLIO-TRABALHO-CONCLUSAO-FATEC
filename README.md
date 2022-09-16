@@ -378,7 +378,7 @@ O projeto a ser desenvolvido vai ser um sistema para agendamentos de eventos na 
 
 <h4 align="center">Projeto 🖥</h4>
 
-Projeto realizado em parceria com a Oracle Corporation uma empresa que atua na área da Computação e Informática juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
+Projeto realizado em parceria com a [Oracle Corporation](https://www.oracle.com/br/) uma empresa multinacional de tecnologia e informática norte-americana, especializada no desenvolvimento e comercialização de hardware e softwares e de banco de dados juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
 
 <h4 align="center">Desafio 📈</h4>
 
@@ -389,31 +389,34 @@ Desafio proposto pela Oracle Corporation - "No escritório de São Paulo, temos 
 <div align="center">
 
 <a href="https://vuejs.org/">
-  <img alt="image" src="https://img.shields.io/badge/Vue.js-%23696969?style=for-the-badge&logo=vue.js">
-</a>
-<a href="https://www.java.com/pt-BR/">
-  <img alt="image" src="https://img.shields.io/badge/Java_11-%23696969?style=for-the-badge&logo=Java">
-</a>
-<a href="https://www.oracle.com/br/cloud/">
-  <img alt="image" src="https://img.shields.io/badge/Oracle_Cloud-%23696969?style=for-the-badge&logo=Oracle">
-</a>
-<a href="https://www.atlassian.com/software/jira">
-  <img alt="image" src="https://img.shields.io/badge/Jira_Software-%23696969?style=for-the-badge&logo=jirasoftware">
-</a>
-<a href="https://git-scm.com/">
-  <img alt="image" src="https://img.shields.io/badge/Git-%23696969?style=for-the-badge&logo=Git">
+  <img src="https://img.shields.io/static/v1?label=Vue.js&message=Front-End&color=4FC08D&style=for-the-badge&logo=Vue.js"/>
 </a>
 <a href="https://nodejs.org/en/">
-  <img alt="image" src="https://img.shields.io/badge/Node.js-%23696969?style=for-the-badge&logo=Node.js">
+  <img src="https://img.shields.io/static/v1?label=Node.js&message=Front-end&color=339933&style=for-the-badge&logo=Node.js"/>
 </a>
 <a href="https://www.npmjs.com/">
-  <img alt="image" src="https://img.shields.io/badge/NPM-%23696969?style=for-the-badge&logo=npm">
+  <img src="https://img.shields.io/static/v1?label=NPM&message=Front-end&color=CB3837&style=for-the-badge&logo=NPM"/>
 </a>
-<a href="https://maven.apache.org/">
-  <img alt="image" src="https://img.shields.io/badge/Maven-%23696969?style=for-the-badge&logo=Apache Maven">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
+  <img src="https://img.shields.io/static/v1?label=Java&message=Back-End&color=007396&style=for-the-badge&logo=Java"/>
 </a>
 <a href="https://spring.io/projects/spring-boot">
-  <img alt="image" src="https://img.shields.io/badge/Spring_Boot-%23696969?style=for-the-badge&logo=Spring">
+  <img src="https://img.shields.io/static/v1?label=Spring Boot&message=Back-end&color=6DB33F&style=for-the-badge&logo=Spring"/>
+</a>
+<a href="https://maven.apache.org/">
+  <img src="https://img.shields.io/static/v1?label=Apache Maven&message=Back-end&color=C71A36&style=for-the-badge&logo=Apache Maven"/>
+</a>
+<a href="https://www.oracle.com/br/cloud/">
+  <img src="https://img.shields.io/static/v1?label=Oracle Cloud&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
+</a>
+<a href="https://www.atlassian.com/software/jira">
+  <img src="https://img.shields.io/static/v1?label=Jira Software&message=Processo&color=0052CC&style=for-the-badge&logo=jirasoftware"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/static/v1?label=Git&message=Devops&color=F05032&style=for-the-badge&logo=Git"/>
+</a>
+<a href="https://github.com">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=Devops&color=181717&style=for-the-badge&logo=GitHub"/>
 </a>
 
 </div>
