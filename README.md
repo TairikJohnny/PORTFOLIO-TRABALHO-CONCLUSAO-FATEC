@@ -46,11 +46,11 @@ NUNA, sua assistente de voz para viagens
 
 Uma assistente guiada por comando de voz para auxiliá-lo em sua viagem e estadia.
 
-<p align="center">Projeto 🖥</p>
+<h4 align="center">Projeto 🖥</h4>
 
 Projeto proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
 
-<p align="center">Desafio 📈</p>
+<h4 align="center">Desafio 📈</h4>
 
 O desafio foi criar uma assitente de voz que vai auxiliar o usuário a organizar e planejar a sua viagem e estadia consumindo APIs públicas.
 
@@ -129,7 +129,7 @@ function fetchApi(url) {
 - [x] Comecei a aprender metodologias ágeis com Scrum.
 - [x] Comecei a aprender JavaScript.
 - [x] Comecei a aprender a consumir APIs.
-- [x] Aprofundei os meus conhecimentos com HTML e CSS.
+- [x] Aprofundei os meus conhecimentos em HTML e CSS.
 
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
