@@ -141,11 +141,9 @@ function fetchApi(url) {
 
 <h1 align="center">API 2º SEMESTRE - 2020-2</h1>
 
-<h3 align="center">Resumo do Projeto</h3>
-
 <p align="center"> <img src="imagens-2-semestre/icone_pi.png" alt="AgendHouse" class="center" width=200/> </p>
 
-<p align="center">Resumo</p>
+<p align="center">Resumo 📋</p>
 
 Software para cadastro de conta de água e luz para a empresa parceira da Fatec - SJC.
 
@@ -259,13 +257,11 @@ public void update() throws SQLException {
 
 <h1 align="center">API 3º SEMESTRE - 2021-1</h1>
 
-<h3 align="center">Resumo do Projeto</h3>
-
 <h2 align="center">
 MOM - Management of Operational Manuals
 </h2>
 
-<p align="center">Resumo</p>
+<p align="center">Resumo 📋</p>
 
 Software para gerenciamento de manuais operacionais de aviação.
 
@@ -369,11 +365,9 @@ closeReview() {
 
 <h1 align="center">API 4º SEMESTRE - 2021-2</h1>
 
-<h3 align="center">Resumo do Projeto</h3>
-
 <p align="center"> <img src="imagens-4-semestre/logo_agendhouse.png" alt="AgendHouse" class="center" width=600/> </p>
 
-<p align="center">Resumo</p>
+<p align="center">Resumo 📋</p>
 
 O projeto a ser desenvolvido vai ser um sistema para agendamentos de eventos na [Casa Oracle](https://blogs.oracle.com/oracle-brasil/casa-oracle-abre-as-portas-para-a-inovacao-em-sao-paulo) buscando solucionar os obstáculos da pandemia do [Covid-19](https://covid.saude.gov.br/).
 
