@@ -297,9 +297,6 @@ Desenvolver um sistema que permita customizar, controlar e revisar documentos fo
 <a href="https://www.javascript.com/">
   <img src="https://img.shields.io/static/v1?label=JavaScript&message=Front-End&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
 </a>
-<a href="https://nodejs.org/en/">
-  <img src="https://img.shields.io/static/v1?label=Node.js&message=Front-end&color=339933&style=for-the-badge&logo=Node.js"/>
-</a>
 <a href="https://www.npmjs.com/">
   <img src="https://img.shields.io/static/v1?label=NPM&message=Front-end&color=CB3837&style=for-the-badge&logo=NPM"/>
 </a>
@@ -417,9 +414,6 @@ Desafio proposto pela Oracle Corporation - "No escritório de São Paulo, temos 
 
 <a href="https://vuejs.org/">
   <img src="https://img.shields.io/static/v1?label=Vue.js&message=Front-End&color=4FC08D&style=for-the-badge&logo=Vue.js"/>
-</a>
-<a href="https://nodejs.org/en/">
-  <img src="https://img.shields.io/static/v1?label=Node.js&message=Front-end&color=339933&style=for-the-badge&logo=Node.js"/>
 </a>
 <a href="https://www.npmjs.com/">
   <img src="https://img.shields.io/static/v1?label=NPM&message=Front-end&color=CB3837&style=for-the-badge&logo=NPM"/>
