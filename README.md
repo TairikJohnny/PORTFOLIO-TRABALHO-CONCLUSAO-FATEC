@@ -145,15 +145,15 @@ function fetchApi(url) {
 
 <h4 align="center">Resumo 📋</h4>
 
-Software para cadastro de conta de água e luz para a empresa parceira da Fatec - SJC.
+Software desktop para cadastro manual de contas de água e luz que por algum motivo não conseguiram ser automatizadas.
 
 <h4 align="center">Projeto 🖥</h4>
 
-Projeto proposto pelo parceiro da Fatec para resolução de um problema real que a empresa enfrentava.
+Projeto realizado em parceria com a [Tecsus](https://tecsus.com.br/) uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
 
 <h4 align="center">Desafio 📈</h4>
 
-O desafio foi criar um software que auxiliasse e economizasse o tempo dos digitadores da empresa que precisavem cadastrar algumas contas de água e luz manualmente.
+A Tecsus realiza a gestão de contas de utilidades (água e energia) dos seus clientes. Todos os meses milhares de contas devem ser digitadas manualmente no sistema para a realização de análises de contratos e análises de consumo. Desta forma, para facilitar a digitação das contas precisamos de um sistema que permita o cadastro de cada conta de forma rápida e ágil, sem a necessidade de utilização do mouse, apenas por comandos do teclado.
 
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
