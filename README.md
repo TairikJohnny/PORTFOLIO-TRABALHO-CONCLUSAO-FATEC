@@ -257,6 +257,8 @@ public void update() throws SQLException {
 
 <h1 align="center">API 3º SEMESTRE - 2021-1</h1>
 
+<p align="center"> <img src="imagens-3-semestre/logo-mom.png" alt="AgendHouse" class="center" width=150/> </p>
+
 <h2 align="center">
 MOM - Management of Operational Manuals
 </h2>
@@ -366,6 +368,10 @@ closeReview() {
 <h1 align="center">API 4º SEMESTRE - 2021-2</h1>
 
 <p align="center"> <img src="imagens-4-semestre/logo_agendhouse.png" alt="AgendHouse" class="center" width=600/> </p>
+
+<h2 align="center">
+AgendHouse
+</h2>
 
 <h4 align="center">Resumo 📋</h4>
 
