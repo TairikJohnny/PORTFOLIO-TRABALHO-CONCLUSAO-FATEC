@@ -58,14 +58,20 @@ O desafio foi criar uma assitente de voz que vai auxiliar o usuário a organizar
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
   <img src="https://img.shields.io/static/v1?label=HTML5&message=Front-End&color=E34F26&style=for-the-badge&logo=HTML5"/>
 </a>
-<a href="https://nodejs.org/en/">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
 <img src="https://img.shields.io/static/v1?label=CSS3&message=Front-End&color=1572B6&style=for-the-badge&logo=CSS3"/>
 </a>
 <a href="https://www.javascript.com/">
   <img src="https://img.shields.io/static/v1?label=JavaScript&message=Back-End&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/static/v1?label=Git&message=Devops&color=F05032&style=for-the-badge&logo=Git"/>
+</a>
+<a href="https://github.com">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=Devops&color=181717&style=for-the-badge&logo=GitHub"/>
 </a>
 
 </div>
@@ -159,11 +165,17 @@ A Tecsus realiza a gestão de contas de utilidades (água e energia) dos seus cl
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
+<a href="https://www.java.com/pt-BR/">
   <img src="https://img.shields.io/static/v1?label=Java&message=Back-End&color=007396&style=for-the-badge&logo=java"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
+<a href="https://www.mysql.com/">
   <img src="https://img.shields.io/static/v1?label=MySQL&message=Banco de Dados&color=4479A1&style=for-the-badge&logo=MySQL"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/static/v1?label=Git&message=Devops&color=F05032&style=for-the-badge&logo=Git"/>
+</a>
+<a href="https://github.com">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=Devops&color=181717&style=for-the-badge&logo=GitHub"/>
 </a>
 
 </div>
@@ -279,20 +291,35 @@ Desenvolver um sistema que permita customizar, controlar e revisar documentos fo
 
 <div align="center">
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
+<a href="https://vuejs.org/">
   <img src="https://img.shields.io/static/v1?label=Vue.js&message=Front-End&color=4FC08D&style=for-the-badge&logo=Vue.js"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
+<a href="https://www.javascript.com/">
   <img src="https://img.shields.io/static/v1?label=JavaScript&message=Front-End&color=F7DF1E&style=for-the-badge&logo=JavaScript"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
+<a href="https://nodejs.org/en/">
+  <img src="https://img.shields.io/static/v1?label=Node.js&message=Front-end&color=339933&style=for-the-badge&logo=Node.js"/>
+</a>
+<a href="https://www.npmjs.com/">
+  <img src="https://img.shields.io/static/v1?label=NPM&message=Front-end&color=CB3837&style=for-the-badge&logo=NPM"/>
+</a>
+<a href="https://www.java.com/pt-BR/">
   <img src="https://img.shields.io/static/v1?label=Java&message=Back-End&color=007396&style=for-the-badge&logo=java"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
-  <img src="https://img.shields.io/static/v1?label=Spring&message=Back-End&color=6DB33F&style=for-the-badge&logo=Spring"/>
+<a href="https://spring.io/projects/spring-boot">
+  <img src="https://img.shields.io/static/v1?label=Spring Boot&message=Back-end&color=6DB33F&style=for-the-badge&logo=Spring"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
+<a href="https://maven.apache.org/">
+  <img src="https://img.shields.io/static/v1?label=Apache Maven&message=Back-end&color=C71A36&style=for-the-badge&logo=Apache Maven"/>
+</a>
+<a href="https://www.oracle.com/br/">
   <img src="https://img.shields.io/static/v1?label=Oracle&message=Banco de Dados&color=F80000&style=for-the-badge&logo=Oracle"/>
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://img.shields.io/static/v1?label=Git&message=Devops&color=F05032&style=for-the-badge&logo=Git"/>
+</a>
+<a href="https://github.com">
+  <img src="https://img.shields.io/static/v1?label=GitHub&message=Devops&color=181717&style=for-the-badge&logo=GitHub"/>
 </a>
 
 </div>
@@ -397,7 +424,7 @@ Desafio proposto pela Oracle Corporation - "No escritório de São Paulo, temos 
 <a href="https://www.npmjs.com/">
   <img src="https://img.shields.io/static/v1?label=NPM&message=Front-end&color=CB3837&style=for-the-badge&logo=NPM"/>
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element">
+<a href="https://www.java.com/pt-BR/">
   <img src="https://img.shields.io/static/v1?label=Java&message=Back-End&color=007396&style=for-the-badge&logo=Java"/>
 </a>
 <a href="https://spring.io/projects/spring-boot">
