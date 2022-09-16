@@ -143,15 +143,15 @@ function fetchApi(url) {
 
 <p align="center"> <img src="imagens-2-semestre/icone_pi.png" alt="AgendHouse" class="center" width=200/> </p>
 
-<p align="center">Resumo 📋</p>
+<h4 align="center">Resumo 📋</h4>
 
 Software para cadastro de conta de água e luz para a empresa parceira da Fatec - SJC.
 
-<p align="center">Projeto 🖥</p>
+<h4 align="center">Projeto 🖥</h4>
 
 Projeto proposto pelo parceiro da Fatec para resolução de um problema real que a empresa enfrentava.
 
-<p align="center">Desafio 📈</p>
+<h4 align="center">Desafio 📈</h4>
 
 O desafio foi criar um software que auxiliasse e economizasse o tempo dos digitadores da empresa que precisavem cadastrar algumas contas de água e luz manualmente.
 
@@ -261,15 +261,15 @@ public void update() throws SQLException {
 MOM - Management of Operational Manuals
 </h2>
 
-<p align="center">Resumo 📋</p>
+<h4 align="center">Resumo 📋</h4>
 
 Software para gerenciamento de manuais operacionais de aviação.
 
-<p align="center">Projeto 🖥</p>
+<h4 align="center">Projeto 🖥</h4>
 
 Projeto proposto pelo Time de Publicação Operacional, da indústria aeronáutica, responsáveis por emitir, aprovar e revisar os manuais operacionais de aviação, destinados a pilotos, tripulação, despatcher de aeronaves e provedores de treinamento para resolução de um problema real enfrentado no gerenciamento dos manuais dos aviões.
 
-<p align="center">Desafio 📈</p>
+<h4 align="center">Desafio 📈</h4>
 
 Desenvolver um sistema que permita customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF, usando regras específicas para gerar o documento final.
 
@@ -367,15 +367,15 @@ closeReview() {
 
 <p align="center"> <img src="imagens-4-semestre/logo_agendhouse.png" alt="AgendHouse" class="center" width=600/> </p>
 
-<p align="center">Resumo 📋</p>
+<h4 align="center">Resumo 📋</h4>
 
 O projeto a ser desenvolvido vai ser um sistema para agendamentos de eventos na [Casa Oracle](https://blogs.oracle.com/oracle-brasil/casa-oracle-abre-as-portas-para-a-inovacao-em-sao-paulo) buscando solucionar os obstáculos da pandemia do [Covid-19](https://covid.saude.gov.br/).
 
-<p align="center">Projeto 🖥</p>
+<h4 align="center">Projeto 🖥</h4>
 
 Projeto realizado em parceria com a Oracle Corporation uma empresa que atua na área da Computação e Informática juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
 
-<p align="center">Desafio 📈</p>
+<h4 align="center">Desafio 📈</h4>
 
 Desafio proposto pela Oracle Corporation - "No escritório de São Paulo, temos um espaço de inovação aberta chamado Casa Oracle, que é um local para realização de eventos internos/externos, workshops e palestras. Dentro do contexto das restrições sanitárias, nosso desafio é criar uma plataforma para o gerenciamento da utilização do espaço, onde nossos colaboradores poderão fazer a solicitação de agendamento, definindo os convidados e recursos necessários para o evento."
 
