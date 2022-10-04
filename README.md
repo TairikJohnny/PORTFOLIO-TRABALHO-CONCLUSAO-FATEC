@@ -42,17 +42,11 @@ Atualmente tenho 22 anos e sou Desenvolvedor Full Stack Junior na empresa [Grupo
 NUNA, sua assistente de voz para viagens
 </h2>
 
-<h4 align="center">Resumo 📋</h4>
+<h3 align="center">
+Resumo
+</h3>
 
-Uma assistente guiada por comando de voz para auxiliá-lo em sua viagem e estadia.
-
-<h4 align="center">Projeto 🖥</h4>
-
-Projeto proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
-
-<h4 align="center">Desafio 📈</h4>
-
-O desafio foi criar uma assitente de voz que vai auxiliar o usuário a organizar e planejar a sua viagem e estadia consumindo APIs públicas.
+O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal, o desafio foi criar uma assitente de voz que vai auxiliar o usuário a organizar e planejar a sua viagem e estadia consumindo APIs públicas.
 
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
@@ -78,9 +72,10 @@ O desafio foi criar uma assitente de voz que vai auxiliar o usuário a organizar
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-- [x] Trabalhei na tela de clima, ela descobre a localização do usuário e retorna o clima atualizado consumindo uma API pública do site [Weather API](https://openweathermap.org/api).
+Trabalhei no desenvolvimento do tela de clima, a tela descobre a localização do usuário e retorna o clima atualizado consumindo uma API pública do site [Weather API](https://openweathermap.org/api). Abaixo segue alguns métodos desenvolvidos por mim.
 
-<p align="center"> Função para descobrir a localização do usuário </p>
+<details>
+<summary><b>Função para descobrir a localização do usuário</b></summary>
 
 ```bash
 // Função para descobrir a localização do usuário
@@ -99,7 +94,10 @@ function getUserPosition() {
 }
 ```
 
-<p align="center"> Função para consumir a API </p>
+</details>
+
+<details>
+<summary><b>Função para consumir a API</b></summary>
 
 ```bash
 // Salvando os retornos da API
@@ -128,6 +126,8 @@ function fetchApi(url) {
     })
 }
 ```
+
+</details>
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
