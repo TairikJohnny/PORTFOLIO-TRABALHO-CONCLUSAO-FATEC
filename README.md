@@ -72,7 +72,7 @@ O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnolo
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-Trabalhei no desenvolvimento do tela de clima, a tela descobre a localização do usuário e retorna o clima atualizado consumindo uma API pública do site [Weather API](https://openweathermap.org/api). Abaixo segue alguns métodos desenvolvidos por mim.
+Trabalhei no desenvolvimento do tela de clima, a mesma descobre a localização do usuário e retorna o clima atualizado consumindo uma API pública do site [Weather API](https://openweathermap.org/api). Abaixo segue alguns métodos desenvolvidos por mim.
 
 <details>
 <summary><b>Função para descobrir a localização do usuário</b></summary>
