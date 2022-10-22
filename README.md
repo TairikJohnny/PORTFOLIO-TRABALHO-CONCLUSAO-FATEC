@@ -829,7 +829,7 @@ Projeto realizado em parceria com o [SPC](https://www.spcbrasil.org.br/) que é 
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-Nesse projeto eu atuei como Scrum Master e atuei efetivamente no front-end desenvolvendo as principais telas do sistema. Ajudei na implementação das demandas de Devops e no deploy da aplicação na Heroku. Ajudei no desenvolvimento da documentação do projeto. Abaixo segue algumas telas e métodos que eu ajudei a desenvolver.
+Nesse projeto eu atuei como Scrum Master e atuei efetivamente no front-end desenvolvendo as principais telas do sistema. Ajudei na implementação das demandas de Devops e no deploy da aplicação na Heroku. Ajudei no desenvolvimento da documentação do projeto.
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
