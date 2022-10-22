@@ -2,7 +2,7 @@
   <h2> Olá, eu sou o Tairik Johnny 👋</h2>
 </div>
 
-Atualmente tenho 22 anos e sou Desenvolvedor Full Stack Junior na empresa [Grupo Parque das Flores](https://parquedasflores.com.br/), estou regularmente matriculado no 6° semestre do curso de Banco de Dados pela [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](https://fatecsjc-prd.azurewebsites.net/), tenho formação de Técnico em Informática pela [Etec Prof.ª Ilza Nascimento Pintus](https://www.cps.sp.gov.br/etecs/etec-profa-ilza-nascimento-pintus/) e formação de Técnico em Informática para Internet pelo [Senac EAD](https://www.ead.senac.br/).
+Tenho 22 anos e, atualmente, sou Desenvolvedor Full Stack Junior na empresa [Grupo Parque das Flores](https://parquedasflores.com.br/), Estou regularmente matriculado no 6° semestre do curso de Banco de Dados na [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](https://fatecsjc-prd.azurewebsites.net/), Tenho formação em Técnico em Informática pela [Etec Prof.ª Ilza Nascimento Pintus](https://www.cps.sp.gov.br/etecs/etec-profa-ilza-nascimento-pintus/) e Técnico em Informática para Internet pelo [Senac EAD](https://www.ead.senac.br/).
 
 <div align="center">
   <a href = "https://api.whatsapp.com/send?phone=5512992333241"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -48,6 +48,12 @@ Resumo
 
 O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal, o desafio foi criar uma assitente de voz que vai auxiliar o usuário a organizar e planejar a sua viagem e estadia consumindo APIs públicas.
 
+<h4 align="center">
+Link para o repositório do projeto
+</h4>
+
+[Link para o projeto](https://github.com/TairikJohnny/API-1-SEMESTRE)
+
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
 <div align="center">
@@ -72,7 +78,7 @@ O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnolo
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-Trabalhei no desenvolvimento do tela de clima, a mesma descobre a localização do usuário e retorna o clima atualizado consumindo uma API pública do site [Weather API](https://openweathermap.org/api). Abaixo segue alguns métodos desenvolvidos por mim.
+Fiquei responsável pelo desenvolvimento da tela de clima, a mesma descobre a localização do usuário e retorna o clima atualizado consumindo uma API pública do site [Weather API](https://openweathermap.org/api). Segue abaixo alguns métodos desenvolvidos por mim.
 
 <details>
 <summary><b>Função para descobrir a localização do usuário</b></summary>
@@ -149,7 +155,9 @@ function fetchApi(url) {
 
 <p align="center"> <img src="imagens-2-semestre/icone_pi.png" alt="AgendHouse" class="center" width=200/> </p>
 
-<h4 align="center">Resumo 📋</h4>
+<h3 align="center">
+Resumo
+</h3>
 
 Projeto realizado em parceria com a [Tecsus](https://tecsus.com.br/) uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal. A Tecsus realiza a gestão de contas de utilidades (água e energia) dos seus clientes. Todos os meses milhares de contas devem ser digitadas manualmente no sistema para a realização de análises de contratos e análises de consumo. Desta forma, para facilitar a digitação das contas precisamos de um sistema que permita o cadastro de cada conta de forma rápida e ágil, sem a necessidade de utilização do mouse, apenas por comandos do teclado.
 
@@ -174,10 +182,10 @@ Projeto realizado em parceria com a [Tecsus](https://tecsus.com.br/) uma startup
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-Trabalhei na parte de conexão do banco via JDBC e com os CRUDs do sistema.
+Trabalhei na parte de conexão do banco de dados via JDBC e com os CRUDs do sistema. Abaixo segue algumas classes e métodos desenvolvidos por mim.
 
 <details>
-<summary><b>Classe para criar o BD</b></summary>
+<summary><b>Classe para criar o banco de dados</b></summary>
 
 ```bash
 public class CriarBanco {
@@ -273,17 +281,11 @@ public void update() throws SQLException {
 MOM - Management of Operational Manuals
 </h2>
 
-<h4 align="center">Resumo 📋</h4>
+<h3 align="center">
+Resumo
+</h3>
 
-Software para gerenciamento e customização de manuais operacionais da aviação.
-
-<h4 align="center">Projeto 🖥</h4>
-
-Projeto proposto pelo Time de Publicação Operacional da [Embraer](https://embraer.com/br/pt), responsáveis por emitir, aprovar e revisar os manuais operacionais de aviação, destinados a pilotos, tripulação, despatcher de aeronaves e provedores de treinamento juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
-
-<h4 align="center">Desafio 📈</h4>
-
-Desenvolver um sistema que permita customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF, usando regras específicas para gerar o documento final.
+Projeto proposto pelo Time de Publicação Operacional da [Embraer](https://embraer.com/br/pt), responsáveis por emitir, aprovar e revisar os manuais operacionais de aviação, destinados a pilotos, tripulação, despatcher de aeronaves e provedores de treinamento juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal. O objetivo foi desenvolver um sistema que permita customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF, usando regras específicas para gerar o documento final.
 
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
@@ -321,12 +323,10 @@ Desenvolver um sistema que permita customizar, controlar e revisar documentos fo
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-- [x] Trabalhei principalmente no Front-end.
-- [x] Ajudei a desenvolver as telas e no consumo dos endpoints.
-- [x] Virei Scrum Master no decorrer do projeto.
-- [x] Propus o uso do framework JavaScript Vue.js para o front-end.
+Fiquei responsável por desenvolver o Front-end da aplicação, devido o grau de complexidade propus de utilizarmos o framework JavaScript Vue.js para desenvolver o front-end e virei Scrum Master no decorrer do projeto. Abaixo segue alguns métodos desenvolvidos por mim. 
 
-<p align="center"> Método para buscar um documento no BD </p>
+<details>
+<summary><b>Método para buscar um documento no BD</b></summary>
 
 ```bash
 getDocument() {
@@ -352,7 +352,10 @@ getDocument() {
 },
 ```
 
-<p align="center"> Método para fechar a revisão do documento </p>
+</details>
+
+<details>
+<summary><b>Método para fechar a revisão do documento</b></summary>
 
 ```bash
 closeReview() {
@@ -369,6 +372,8 @@ closeReview() {
       })
 },
 ```
+
+</details>
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
@@ -394,17 +399,11 @@ closeReview() {
 AgendHouse
 </h2>
 
-<h4 align="center">Resumo 📋</h4>
+<h3 align="center">
+Resumo
+</h3>
 
-O projeto a ser desenvolvido vai ser um sistema para agendamentos de eventos na [Casa Oracle](https://blogs.oracle.com/oracle-brasil/casa-oracle-abre-as-portas-para-a-inovacao-em-sao-paulo) buscando solucionar os obstáculos da pandemia do [Covid-19](https://covid.saude.gov.br/).
-
-<h4 align="center">Projeto 🖥</h4>
-
-Projeto realizado em parceria com a [Oracle Corporation](https://www.oracle.com/br/) uma empresa multinacional de tecnologia e informática norte-americana, especializada no desenvolvimento e comercialização de hardware e softwares e de banco de dados juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal.
-
-<h4 align="center">Desafio 📈</h4>
-
-Desafio proposto pela Oracle Corporation - "No escritório de São Paulo, temos um espaço de inovação aberta chamado Casa Oracle, que é um local para realização de eventos internos/externos, workshops e palestras. Dentro do contexto das restrições sanitárias, nosso desafio é criar uma plataforma para o gerenciamento da utilização do espaço, onde nossos colaboradores poderão fazer a solicitação de agendamento, definindo os convidados e recursos necessários para o evento."
+Projeto realizado em parceria com a [Oracle Corporation](https://www.oracle.com/br/) uma empresa multinacional de tecnologia e informática norte-americana, especializada no desenvolvimento e comercialização de hardware e softwares e de banco de dados juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal. O projeto a ser desenvolvido vai ser um sistema para agendamentos de eventos na [Casa Oracle](https://blogs.oracle.com/oracle-brasil/casa-oracle-abre-as-portas-para-a-inovacao-em-sao-paulo) buscando solucionar os obstáculos da pandemia do [Covid-19](https://covid.saude.gov.br/). Desafio proposto pela Oracle Corporation - "No escritório de São Paulo, temos um espaço de inovação aberta chamado Casa Oracle, que é um local para realização de eventos internos/externos, workshops e palestras. Dentro do contexto das restrições sanitárias, nosso desafio é criar uma plataforma para o gerenciamento da utilização do espaço, onde nossos colaboradores poderão fazer a solicitação de agendamento, definindo os convidados e recursos necessários para o evento."
 
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
@@ -445,16 +444,11 @@ Desafio proposto pela Oracle Corporation - "No escritório de São Paulo, temos 
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-- [x] Nesse projeto do 4º semestre eu assumi o papel de Scrum Master e atuei efetivamente no front-end.
-- [x] Trabalhei principalmente no Front-end desenvolvendo as telas e consumindo as API REST, programei cerca de 80% do front-end.
-- [x] Dei a ideia de ser utilizado o Vuejs como framework web.
-- [x] Ajudei alguns integrantes que não conheciam o framework Vuejs.
-- [x] Fiz todo o gerenciamento do GitHub, como acessos ao repositorio e gerenciamento de branchs.
-- [x] Exercendo o papel de Scrum Master eu ajudei a gerenciar a equipe e o projeto, marcando as reuniões e seguindo os rituais da metodologia SCRUM.
+Nesse projeto do 4º semestre eu assumi o papel de Scrum Master e atuei efetivamente no front-end desenvolvendo cerca de 80% do front-end. Propus de utilizarmos o framework JavaScript VueJs e ajudei os integrantes que não conheciam o framework. Fiz todo o gerenciamento do GitHub, como acessos ao repositorio e gerenciamento de branchs. Exercendo o papel de Scrum Master eu ajudei a gerenciar a equipe e o projeto, marcando as reuniões e seguindo os rituais da metodologia SCRUM. Segue abaixo algumas telas e métodos do sistema desenvolvidos por mim.
 
-<p align="center">Telas desenvolvidas por mim</p>
+<details>
+<summary><b>Tela de Login</b></summary>
 
-<p align="center"> Tela de Login </p>
 <p align="center"> <img src="imagens-4-semestre/tela_login.png" alt="tela de login" class="center" width=800/> </p>
 
 ```bash
@@ -503,7 +497,11 @@ Desafio proposto pela Oracle Corporation - "No escritório de São Paulo, temos 
 </v-form>
 ```
 
-<p align="center"> Tela para um usuário externo criar uma conta no sistema </p>
+</details>
+
+<details>
+<summary><b>Tela para um usuário externo criar uma conta no sistema</b></summary>
+
 <p align="center"> <img src="imagens-4-semestre/tela_criar_conta.png" alt="tela de criação de conta" class="center" width=800/> </p>
 
 ```bash
@@ -588,7 +586,11 @@ Desafio proposto pela Oracle Corporation - "No escritório de São Paulo, temos 
 </v-form>
 ```
 
-<p align="center"> Tela de gerenciamento de Usuário (CRUD)</p>
+</details>
+
+<details>
+<summary><b>Tela de gerenciamento de Usuário (CRUD)</b></summary>
+
 <p align="center"> <img src="imagens-4-semestre/tela_usuario_1.png" alt="tela de gerenciamento de usuário" class="center" width=800/> </p>
 <p align="center"> <img src="imagens-4-semestre/tela_usuario_2.png" alt="tela de gerenciamento de usuário" class="center" width=800/> </p>
 
@@ -644,10 +646,18 @@ cadastrar_usuario() {
 },
 ```
 
-<p align="center"> Tela de Fornecedor</p>
+</details>
+
+<details>
+<summary><b>Tela de Fornecedor</b></summary>
+
 <p align="center"> <img src="imagens-4-semestre/tela_fornecedor_1.png" alt="tela de fornecedor" class="center" width=800/> </p>
 
-<p align="center"> Tela de Agendamento de Evento</p>
+</details>
+
+<details>
+<summary><b>Tela de Agendamento de Evento</b></summary>
+
 <p align="center"> <img src="imagens-4-semestre/tela_evento_1.png" alt="tela de agendamento de evento" class="center" width=800/> </p>
 
 ```bash
@@ -668,7 +678,11 @@ exibir_evento() {
 },
 ```
 
-<p align="center"> Tela de Visitante (CRUD)</p>
+</details>
+
+<details>
+<summary><b>Tela de Visitante (CRUD)</b></summary>
+
 <p align="center"> <img src="imagens-4-semestre/tela_visitante_1.png" alt="tela de agendamento de visitante" class="center" width=800/> </p>
 <p align="center"> <img src="imagens-4-semestre/tela_visitante_2.png" alt="tela de agendamento de visitante" class="center" width=800/> </p>
 
@@ -691,6 +705,8 @@ deletar_visitante(visitante) {
   this.closeDelete();
 },
 ```
+
+</details>
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
