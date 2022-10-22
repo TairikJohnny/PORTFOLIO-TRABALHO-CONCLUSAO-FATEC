@@ -42,17 +42,17 @@ Tenho 22 anos e, atualmente, sou Desenvolvedor Full Stack Junior na empresa [Gru
 NUNA, sua assistente de voz para viagens
 </h2>
 
-<h3 align="center">
-Resumo
-</h3>
-
-O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal, o desafio foi criar uma assitente de voz que vai auxiliar o usuário a organizar e planejar a sua viagem e estadia consumindo APIs públicas.
-
 <h4 align="center">
 Link para o repositório do projeto
 </h4>
 
 [Link para o projeto](https://github.com/TairikJohnny/API-1-SEMESTRE)
+
+<h3 align="center">
+Resumo
+</h3>
+
+O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal, o desafio foi criar uma assitente de voz que vai auxiliar o usuário a organizar e planejar a sua viagem e estadia consumindo APIs públicas.
 
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
@@ -155,11 +155,17 @@ function fetchApi(url) {
 
 <p align="center"> <img src="imagens-2-semestre/icone_pi.png" alt="AgendHouse" class="center" width=200/> </p>
 
+<h4 align="center">
+Link para o repositório do projeto
+</h4>
+
+[Link para o projeto](https://github.com/TairikJohnny/API-2-SEMESTRE)
+
 <h3 align="center">
 Resumo
 </h3>
 
-Projeto realizado em parceria com a [Tecsus](https://tecsus.com.br/) uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal. A Tecsus realiza a gestão de contas de utilidades (água e energia) dos seus clientes. Todos os meses milhares de contas devem ser digitadas manualmente no sistema para a realização de análises de contratos e análises de consumo. Desta forma, para facilitar a digitação das contas precisamos de um sistema que permita o cadastro de cada conta de forma rápida e ágil, sem a necessidade de utilização do mouse, apenas por comandos do teclado.
+Projeto realizado em parceria com a [Tecsus](https://tecsus.com.br/) uma startup que desenvolve dispositivos, aplicativos e sistemas para a transmissão e recepção de dados, controle de equipamentos remotos e gestão de faturas juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal. A Tecsus realiza a gestão de contas de utilidades (água e energia) dos seus clientes. Todos os meses milhares de contas devem ser digitadas manualmente no sistema para a realização de análises de contratos e análises de consumo. O desafio foi desenvolver um sistema para facilitar a digitação manual das contas, assim, permitindo o cadastro de rápida e ágil, sem a necessidade de utilização do mouse, apenas por comandos do teclado.
 
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
@@ -281,11 +287,17 @@ public void update() throws SQLException {
 MOM - Management of Operational Manuals
 </h2>
 
+<h4 align="center">
+Link para o repositório do projeto
+</h4>
+
+[Link para o projeto](https://github.com/TairikJohnny/API-3-SEMESTRE)
+
 <h3 align="center">
 Resumo
 </h3>
 
-Projeto proposto pelo Time de Publicação Operacional da [Embraer](https://embraer.com/br/pt), responsáveis por emitir, aprovar e revisar os manuais operacionais de aviação, destinados a pilotos, tripulação, despatcher de aeronaves e provedores de treinamento juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal. O objetivo foi desenvolver um sistema que permita customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF, usando regras específicas para gerar o documento final.
+Projeto proposto pelo Time de Publicação Operacional da [Embraer](https://embraer.com/br/pt), responsáveis por emitir, aprovar e revisar os manuais operacionais de aviação, destinados a pilotos, tripulação, despatcher de aeronaves e provedores de treinamento juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal. O objetivo foi desenvolver um sistema que permita customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF, usando regras de negócio específicas para gerar o documento final.
 
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
@@ -341,7 +353,6 @@ getDocument() {
           let documentId = response.data.id;
           this.allReviews = this.document.revisions;
           this.getOpenedReview(documentId);
-
           console.log(this.openedReview);
           console.log(this.allReviews);
       }).catch(error => {
@@ -399,6 +410,12 @@ closeReview() {
 AgendHouse
 </h2>
 
+<h4 align="center">
+Link para o repositório do projeto
+</h4>
+
+[Link para o projeto](https://github.com/TairikJohnny/API-4-SEMESTRE)
+
 <h3 align="center">
 Resumo
 </h3>
@@ -444,7 +461,7 @@ Projeto realizado em parceria com a [Oracle Corporation](https://www.oracle.com/
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-Nesse projeto do 4º semestre eu assumi o papel de Scrum Master e atuei efetivamente no front-end desenvolvendo cerca de 80% do front-end. Propus de utilizarmos o framework JavaScript VueJs e ajudei os integrantes que não conheciam o framework. Fiz todo o gerenciamento do GitHub, como acessos ao repositorio e gerenciamento de branchs. Exercendo o papel de Scrum Master eu ajudei a gerenciar a equipe e o projeto, marcando as reuniões e seguindo os rituais da metodologia SCRUM. Segue abaixo algumas telas e métodos do sistema desenvolvidos por mim.
+Nesse projeto eu assumi o papel de Scrum Master e atuei efetivamente no front-end desenvolvendo cerca de 80% do front-end. Propus de utilizarmos o framework JavaScript Vue.js e ajudei os integrantes que não conheciam o framework. Fiz todo o gerenciamento do GitHub, como acessos ao repositorio e gerenciamento de branchs. Exercendo o papel de Scrum Master eu ajudei a gerenciar a equipe e o projeto, marcando as reuniões e seguindo os rituais da metodologia SCRUM. Segue abaixo algumas telas e métodos do sistema desenvolvidos por mim.
 
 <details>
 <summary><b>Tela de Login</b></summary>
@@ -710,13 +727,13 @@ deletar_visitante(visitante) {
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Aprofundei meus conhecimentos no framework Vuejs como um todo.
+- [x] Aprofundei meus conhecimentos no framework Vue.js como um todo.
 - [x] Aprendi a trabalhar com API REST no Vuejs.
 - [x] Aprendi a trabalhar com gerencimento de Organizações e Repositórios no GitHub.
 - [x] Aprendi como é gerenciar uma equipe através do método SCRUM.
 - [x] Aprofundei os meus conhecimentos na padrão de projetos MVC, o seu princípio básico é a divisão da aplicação em três camadas: a camada de interação do usuário (view), a camada de manipulação dos dados (model) e a camada de controle (controller).
 - [x] Como utilizamos um framework Javascript para facilitar a programação eu aprofundei os meus conhecimentos no padrão de projetos Facade que é um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes.
-- [x] Como utlizamos o framework Javascript Vuejs aonde temos a estrutura de componentes compondo componentes eu aprofundei os meus conhecimentos no padrão de projetos Composite que é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
+- [x] Como utilizamos o framework Javascript Vue.js aonde temos a estrutura de componentes compondo componentes eu aprofundei os meus conhecimentos no padrão de projetos Composite que é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
 
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
