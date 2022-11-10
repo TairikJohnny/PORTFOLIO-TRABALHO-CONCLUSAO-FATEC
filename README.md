@@ -224,7 +224,7 @@ public class CriarBanco {
 </details>
 
 <details>
-<summary><b>Método de update</b></summary>
+<summary><b>Classe para atualizar os dados do banco de dados</b></summary>
 
 ```bash
 public void update() throws SQLException {
@@ -267,6 +267,7 @@ public void update() throws SQLException {
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
 - [x] Aprofundei os meus conhecimentos com versionamento de código via GIT.
+- [x] Aprofundei os meus conhecimentos com gerenciamento de projeto no GitHub.
 - [x] Aprofundei os meus conhecimentos com metodologias ágeis com Scrum.
 - [x] Aprofundei os meus conhecimentos com Java.
 - [x] Aprendi a conectar o Java com um banco de dados MySql via JDBC.
