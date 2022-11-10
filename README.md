@@ -137,19 +137,25 @@ function fetchApi(url) {
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Comecei a aprender versionamento de código via GIT.
-- [x] Comecei a aprender metodologias ágeis com Scrum.
-- [x] Comecei a aprender JavaScript.
-- [x] Comecei a aprender a consumir APIs.
-- [x] Aprofundei os meus conhecimentos em HTML e CSS.
+|   **HARD SKILL**    |  **NÍVEL**  |
+|-----------------|-----------------------|
+|  Versionamento de código via GIT  |  Sei fazer com ajuda  |
+|  Gerenciamento de projeto via GitHub  |  Sei fazer com ajuda  |
+|  Metodologias ágeis com Scrum  |  Sei fazer com ajuda  |
+|  JavaScript  |  Sei fazer com ajuda  |
+|  Consumir APIs  |  Sei fazer com ajuda  |
+|  HTML  |  Sei fazer com ajuda  |
+|  CSS  |  Sei fazer com ajuda  |
 
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Trabalho em equipe
-- [x] Responsabilidade
-- [x] Organização
-- [x] Gestão do tempo
-- [x] Confiança
+|   **SOFT SKILL**    |  **NÍVEL**  |
+|-----------------|-----------------------|
+|  Trabalho em equipe  |  Sei fazer com ajuda  |
+|  Responsabilidade  |  Sei fazer com ajuda  |
+|  Organização  |  Sei fazer com ajuda  |
+|  Gestão do tempo  |  Sei fazer com ajuda  |
+|  Confiança  |  Sei fazer com ajuda  |
 
 <h1 align="center">API 2º SEMESTRE - 2020-2</h1>
 
