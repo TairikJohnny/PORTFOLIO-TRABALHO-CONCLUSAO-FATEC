@@ -1,5 +1,7 @@
+<p align="center"> <img src="foto.png" alt="Tairik" class="center" width=300/> </p>
+
 <div align="center">
-  <h2> Olá, eu sou o Tairik Johnny 👋</h2>
+  <h1> Olá, eu sou o Tairik Johnny 👋</h1>
 </div>
 
 Tenho 22 anos e, atualmente, sou Desenvolvedor Full Stack Junior na empresa [Grupo Parque das Flores](https://parquedasflores.com.br/), Estou regularmente matriculado no 6° semestre do curso de Banco de Dados na [FATEC Prof. Jessen Vidal - Faculdade de Tecnologia de São José dos Campos](https://fatecsjc-prd.azurewebsites.net/), Tenho formação em Técnico em Informática pela [Etec Prof.ª Ilza Nascimento Pintus](https://www.cps.sp.gov.br/etecs/etec-profa-ilza-nascimento-pintus/) e Técnico em Informática para Internet pelo [Senac EAD](https://www.ead.senac.br/).
@@ -29,3 +31,31 @@ Tenho 22 anos e, atualmente, sou Desenvolvedor Full Stack Junior na empresa [Gru
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
+
+<br>
+
+<h2>Meus Projetos</h2>
+
+### API 1º SEMESTRE - 2020-1
+[NUNA, sua assistente de voz para viagens](https://github.com/TairikJohnny/PORTFOLIO-TRABALHO-CONCLUSAO-FATEC/blob/main/1-semestre/1-semestre.md)
+- O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal, o desafio foi criar uma assitente de voz que vai auxiliar o usuário a organizar e planejar a sua viagem e estadia consumindo APIs públicas.
+
+### API 2º SEMESTRE - 2020-2
+[Projeto](https://github.com/TairikJohnny/PORTFOLIO-TRABALHO-CONCLUSAO-FATEC/blob/main/2-semestre/2-semestre.md)
+- Projeto realizado em parceria com a [Tecsus](https://tecsus.com.br/), o desafio foi desenvolver um sistema para facilitar a digitação manual das contas, assim, permitindo o cadastro de rápida e ágil, sem a necessidade de utilização do mouse, apenas por comandos do teclado. 
+
+### API 3º SEMESTRE - 2021-1
+[MOM - Management of Operational Manuals](https://github.com/TairikJohnny/PORTFOLIO-TRABALHO-CONCLUSAO-FATEC/blob/main/3-semestre/3-semestre.md)
+- Projeto proposto pelo Time de Publicação Operacional da [Embraer](https://embraer.com/br/pt), o objetivo foi desenvolver um sistema que permita customizar, controlar e revisar documentos formados por fragmentos armazenados em arquivos PDF, usando regras de negócio específicas para gerar o documento final.
+
+### API 4º SEMESTRE - 2021-2
+[AgendHouse](https://github.com/TairikJohnny/PORTFOLIO-TRABALHO-CONCLUSAO-FATEC/blob/main/4-semestre/4-semestre.md)
+- Projeto realizado em parceria com a [Oracle Corporation](https://www.oracle.com/br/), o projeto a ser desenvolvido vai ser um sistema para agendamentos de eventos na [Casa Oracle](https://blogs.oracle.com/oracle-brasil/casa-oracle-abre-as-portas-para-a-inovacao-em-sao-paulo) buscando solucionar os obstáculos da pandemia do [Covid-19](https://covid.saude.gov.br/).
+
+### API 5º SEMESTRE - 2022-1
+[SAS - Score Analysis System](https://github.com/TairikJohnny/PORTFOLIO-TRABALHO-CONCLUSAO-FATEC/blob/main/5-semestre/5-semestre.md)
+- Projeto realizado em parceria com o [SPC](https://www.spcbrasil.org.br/), o projeto a ser desenvolvido vai ser um sistema para buscar novas receitas através da criação de novas segmentações de clientes para a empresa parceira.
+
+### API 6º SEMESTRE - 2022-2
+[CATE - Coleta Análise Tratamento Exibição](https://github.com/TairikJohnny/PORTFOLIO-TRABALHO-CONCLUSAO-FATEC/blob/main/6-semestre/6-semestre.md)
+- Projeto realizado em parceria com a [Dom Rock](https://www.domrock.net/), o projeto a ser desenvolvido vai ser um sistema de gestão de reconciliação de planos de saúde.
