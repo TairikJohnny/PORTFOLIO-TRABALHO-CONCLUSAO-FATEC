@@ -107,16 +107,20 @@ closeReview() {
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Aprofundei os meus conhecimentos com versionamento de código via GIT.
-- [x] Aprofundei os meus conhecimentos com metodologias ágeis com Scrum.
-- [x] Aprofundei os meus conhecimentos no framework Vue.js.
-- [x] Aprofundei os meus conhecimentos em JavaScript.
-- [x] Aprendi a consumir endpoints via Axios.
+- [x] <b>GIT e GitHub</b>
+    - Aprofundei os meus conhecimentos em versionamento de código via GIT e gerenciamento de projetos no GitHub.
+    - Sei fazer com autonomia.
+  
+- [x] <b>SCRUM</b>
+    - Me tornei Scrum Master no decorrer do projeto então aprofundei os meus conhecimento na metodologia e nos seus rituais.
+    - Sei fazer com autonomia.
+
+- [x] <b>Vue.js</b>
+    - Aprofundei os meus conhecimentos em Vue.js, foi o meu primeiro projeto real utilizando o framework JavaScript.
+    - Estava utilizando o Vue.js no estágio e resolvi propor de utilizarmos no projeto devido o sua facilidade de aprendizagem.
+    - Aprendi a consumir APIs utilizando JavaScript e Axios.
+    - Sei fazer com ajuda.
 
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Trabalho em equipe
-- [x] Responsabilidade
-- [x] Organização
-- [x] Gestão do tempo
-- [x] Confiança
+Neste projeto tivemos que <i><b>superar</i></b> diversas adversidades, alguns integrantes do grupo foram saindo no decorrer do projeto inclusive o Scrum Master então eu assumi a <i><b>responsabilidade</i></b> e virei SM. O <i><b>trabalho em equipe</i></b> e a <i><b>comunicação</i></b> entre o grupo foram essenciais para o desenvolvimento do projeto com êxito.
