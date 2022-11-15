@@ -123,4 +123,18 @@ closeReview() {
 
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
-Neste projeto tivemos que <i><b>superar</i></b> diversas adversidades, alguns integrantes do grupo foram saindo no decorrer do projeto inclusive o Scrum Master então eu assumi a <i><b>responsabilidade</i></b> e virei SM. O <i><b>trabalho em equipe</i></b> e a <i><b>comunicação</i></b> entre o grupo foram essenciais para o desenvolvimento do projeto com êxito.
+- [x] <b>Superação</b>
+    - Tivemos que superar diversos obstáculos no decorrer do projeto com a saída de alguns membros do grupo.
+    - Sei fazer com autonomia.
+
+- [x] <b>Responsabilidade</b>
+    - Precise assumir a responsabilidade do cargo de Scrum Master devido a saída do mesmo.
+    - Sei fazer com autonomia.
+
+- [x] <b>Responsabilidade</b>
+    - O trabalho em equipe mais do que nunca foi fundamental para superarmos as adversidades e conseguimos dar continuidade no projeto mesmo com a saída de alguns integrantes.
+    - Sei fazer com autonomia.
+
+- [x] <b>Comunicação</b>
+    - A comunicação entre os membros da equipe foi essencial para o bom andamento do projeto
+    - Sei fazer com autonomia.
