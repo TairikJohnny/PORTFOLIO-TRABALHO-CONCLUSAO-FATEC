@@ -131,7 +131,7 @@ closeReview() {
     - Precise assumir a responsabilidade do cargo de Scrum Master devido a saída do mesmo.
     - Sei fazer com autonomia.
 
-- [x] <b>Responsabilidade</b>
+- [x] <b>Trabalho em Equipe</b>
     - O trabalho em equipe mais do que nunca foi fundamental para superarmos as adversidades e conseguimos dar continuidade no projeto mesmo com a saída de alguns integrantes.
     - Sei fazer com autonomia.
 
