@@ -119,10 +119,29 @@ public void update() throws SQLException {
 - [x] Aprendi a conectar o Java com um banco de dados MySql via JDBC.
 - [x] Aprendi a criar interface gráfica com o Java Swing.
 
+- [x] <b>Versionamento de código via GIT</b>
+    - Aprofundei os meus conhecimentos em versionamento de código via GIT.
+    - Sei fazer com autonomia.
+
+- [x] <b>Gerenciar projetos no GitHub</b>
+    - Aprofundei os meus conhecimentos em gerenciamento de projetos no GitHub.
+    - Sei fazer com autonomia.
+
+- [x] <b>Metodologias ágeis com Scrum</b>
+    - Aprofundei os meus conhecimentos na metodologia SCRUM e seus rituais.
+    - Sei fazer com ajuda.
+
+- [x] <b>Java</b>
+    - Aprofundei os meus conhecimentos na linguagem de programação Java.
+    - Aprendi a conectar o Java com um banco de dados MySql via JDBC.
+    - Aprendi a criar interface gráfica com o Java Swing.
+    - Sei fazer com ajuda.
+
+- [x] <b>SQL</b>
+    - Aprofundei os meus conhecimentos em SQL.
+    - Aprendi a fazer querys SQL no Java.
+    - Sei fazer com ajuda.
+
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Trabalho em equipe
-- [x] Responsabilidade
-- [x] Organização
-- [x] Gestão do tempo
-- [x] Confiança
+Neste projeto tivemos um cliente real que trouxe desafios reais a serem <i><b>superados</i></b>, neste projeto tivemos <i><b>autonomia</i></b> para <i><b>organizar</i></b> as tarefas e <i><b>disciplina</i></b> para executar as mesmas, novamente tivemos que <i><b>trabalhar em equipe</i></b> para <i><b>executar</i></b> com excelência as tasks do projeto.
