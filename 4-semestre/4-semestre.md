@@ -203,7 +203,7 @@ deletar_visitante(visitante) {
     - Sei fazer com autonomia.
 
 - [x] <b>Relacionamento</b>
-    - Devido o cargo de Scrum Master precisei manter um relacionamento hamornioso com todos os membros do grupo.
+    - Devido o cargo de Scrum Master precisei manter um relacionamento harmonioso com todos os membros do grupo.
     - Sei fazer com autonomia.
 
 - [x] <b>Trabalho em Equipe</b>
