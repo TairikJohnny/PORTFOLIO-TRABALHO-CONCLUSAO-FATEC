@@ -101,15 +101,15 @@ function fetchApi(url) {
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
-- [x] <b>Versionamento de código via GIT</b>
+- [x] <b>GIT</b>
     - Foi o meu primeiro contato com versionamento e GIT, aprendi a importância da ferramenta no dia-a-dia de um desenvolvedor e aprendi a utilizar e implemetar em projetos.
     - Sei fazer com ajuda.
 
-- [x] <b>Gerenciar projetos no GitHub</b>
+- [x] <b>GitHub</b>
     - Foi o meu primeiro contato com o GitHub, aprendi a importância da ferramenta no gerenciamento de projetos e aprendi a utilizar e implemetar em projetos.
     - Sei fazer com ajuda.
 
-- [x] <b>Metodologias ágeis com Scrum</b>
+- [x] <b>SCRUM</b>
     - Foi o meu primeiro contato com o SCRUM, aprendi a importância da metodologia no gerenciamento de projetos e aprendi os rituais do SCRUM.
     - Sei fazer com ajuda.
 
@@ -117,7 +117,7 @@ function fetchApi(url) {
     - Foi o meu primeiro contato com o JavaScript, aprendi a consumir APIs públicas e mostrar as informações para o usuário.
     - Sei fazer com ajuda.
 
-- [x] <b>Consumir APIs</b>
+- [x] <b>APIs</b>
     - Foi o meu primeiro contato com APIs, aprendi a consumir APIs públicas e aprendi a importância de uma API no mundo do desenvolvimento.
     - Sei fazer com ajuda.
 
