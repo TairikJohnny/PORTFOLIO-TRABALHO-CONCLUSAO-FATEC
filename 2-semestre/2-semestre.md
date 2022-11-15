@@ -112,13 +112,6 @@ public void update() throws SQLException {
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Aprofundei os meus conhecimentos com versionamento de código via GIT.
-- [x] Aprofundei os meus conhecimentos com gerenciamento de projeto no GitHub.
-- [x] Aprofundei os meus conhecimentos com metodologias ágeis com Scrum.
-- [x] Aprofundei os meus conhecimentos com Java.
-- [x] Aprendi a conectar o Java com um banco de dados MySql via JDBC.
-- [x] Aprendi a criar interface gráfica com o Java Swing.
-
 - [x] <b>Versionamento de código via GIT</b>
     - Aprofundei os meus conhecimentos em versionamento de código via GIT.
     - Sei fazer com autonomia.
