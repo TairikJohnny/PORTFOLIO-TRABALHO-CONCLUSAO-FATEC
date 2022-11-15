@@ -127,4 +127,4 @@ function fetchApi(url) {
 
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
-No meu primeiro semestre na faculdade aprendi a através da metodologia SCRUM o quanto o <u><i><b>trabalho em equipe</b></i></u> é importante no <u><i><b>gerenciamento</b></i></u> de um projeto para que ele fique <u><i><b>organizado</b></i></u> e com um resultado satisfatorio no final. Dentro do SCRUM aprendi que cada membro da equipe fica <u><i><b>responsável</b></i></u> pela suas tasks e isso demanda muita <u><i><b>organização</i></b></u> e <u><i><b>confiança</i></b></u> no seu proprio trabalho.
+No meu primeiro semestre na faculdade aprendi a através da metodologia SCRUM o quanto o <i><b>trabalho em equipe</b></i> é importante no <i><b>gerenciamento</b></i> de um projeto para que ele fique <i><b>organizado</b></i> e com um resultado satisfatorio no final. Dentro do SCRUM aprendi que cada membro da equipe fica <i><b>responsável</b></i> pela suas tasks e isso demanda muita <i><b>organização</i></b> e <i><b>confiança</i></b> no seu proprio trabalho.
