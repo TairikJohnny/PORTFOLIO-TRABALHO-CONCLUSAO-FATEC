@@ -183,7 +183,7 @@ deletar_visitante(visitante) {
     - Sei fazer com autonomia.
 
 - [x] <b>GIT e GitHub</b>
-    - Aprendi a trabalhar com gerencimento de Organizações e Repositórios no GitHub.
+    - Aprendi a trabalhar com gerencimento de Organizações, Branchs e Repositórios no GitHub.
     - Sei fazer com autonomia.
 
 - [x] <b>SCRUM</b>
