@@ -57,149 +57,7 @@ Projeto realizado em parceria com a [Oracle Corporation](https://www.oracle.com/
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-Nesse projeto eu assumi o papel de Scrum Master e atuei efetivamente no front-end desenvolvendo cerca de 80% do front-end. Propus de utilizarmos o framework JavaScript Vue.js e ajudei os integrantes que não conheciam o framework. Fiz todo o gerenciamento do GitHub, como acessos ao repositorio e gerenciamento de branchs. Exercendo o papel de Scrum Master eu ajudei a gerenciar a equipe e o projeto, marcando as reuniões e seguindo os rituais da metodologia SCRUM. Segue abaixo algumas telas e métodos do sistema desenvolvidos por mim.
-
-<details>
-<summary><b>Tela de Login</b></summary>
-
-<p align="center"> <img src="imagens/tela_login.png" alt="tela de login" class="center" width=800/> </p>
-
-```bash
-<v-form
-  ref="form"
-  v-model="valid"
-  lazy-validation
-  @submit.prevent="do_login"
->
-  <span style="color: white; font-size: 18px">E-mail</span>
-  <v-text-field
-    label="Email"
-    v-model="usuario.email"
-    :rules="regra_email"
-    single-line
-    solo
-    required
-    dense
-    background-color="#A9A9A9"
-  ></v-text-field>
-  <span style="color: white; font-size: 18px">Senha</span>
-  <v-text-field
-    label="Senha"
-    v-model="usuario.senha"
-    :rules="regra_senha"
-    background-color="#A9A9A9"
-    single-line
-    solo
-    required
-    dense
-    password
-    :append-icon="show1 ? 'mdi-eye' : 'mdi-eye-off'"
-    :type="show1 ? 'text' : 'password'"
-    @click:append="show1 = !show1"
-  ></v-text-field>
-  <v-btn
-    id="botao-login"
-    block
-    color="#C84634"
-    type="submit"
-    class="white--text"
-    :disabled="!valid"
-    @click="validate"
-    >Login</v-btn
-  >
-</v-form>
-```
-
-</details>
-
-<details>
-<summary><b>Tela para um usuário externo criar uma conta no sistema</b></summary>
-
-<p align="center"> <img src="imagens/tela_criar_conta.png" alt="tela de criação de conta" class="center" width=800/> </p>
-
-```bash
-<v-form
-  ref="form"
-  v-model="valid"
-  lazy-validation
-  @submit.prevent="cadastrar_usuario"
->
-  <v-container>
-    <v-row justify="center">
-      <v-col cols="24">
-        <span style="color: white; font-size: 18px">Nome</span>
-        <v-text-field
-          label="Nome"
-          v-model="usuario.nome"
-          :rules="regra_nome"
-          single-line
-          solo
-          required
-          dense
-          background-color="#A9A9A9"
-        ></v-text-field>
-      </v-col>
-    </v-row>
-    <v-row justify="center">
-      <v-col cols="24">
-        <span style="color: white; font-size: 18px"
-          >E-mail</span
-        >
-        <v-text-field
-          label="E-mail"
-          v-model="usuario.email"
-          :rules="regra_email"
-          single-line
-          solo
-          required
-          dense
-          background-color="#A9A9A9"
-        ></v-text-field>
-      </v-col>
-    </v-row>
-    <v-row justify="center">
-      <v-col cols="24">
-        <span style="color: white; font-size: 18px">Senha</span>
-        <v-text-field
-          label="Senha"
-          v-model="usuario.senha"
-          :rules="regra_senha"
-          background-color="#A9A9A9"
-          single-line
-          solo
-          required
-          dense
-          password
-          :append-icon="show1 ? 'mdi-eye' : 'mdi-eye-off'"
-          :type="show1 ? 'text' : 'password'"
-          @click:append="show1 = !show1"
-        ></v-text-field>
-      </v-col>
-    </v-row>
-    <v-row>
-      <v-col></v-col>
-      <v-col>
-        <v-btn text color="white" :to="{ name: 'Login' }"
-          >Cancelar</v-btn
-        >
-      </v-col>
-      <v-col>
-        <v-btn
-          color="#C84634"
-          class="white--text mr-4"
-          type="submit"
-          :disabled="!valid"
-          @click="validate"
-        >
-          Salvar
-        </v-btn>
-      </v-col>
-    </v-row>
-  </v-container>
-</v-form>
-```
-
-</details>
+Nesse projeto eu assumi o papel de Scrum Master e atuei efetivamente no front-end desenvolvendo cerca de 80% do mesmo. Propus de utilizarmos o framework JavaScript Vue.js e ajudei os integrantes que não conheciam o framework. Fiz todo o gerenciamento do GitHub, como acessos aos repositórios e gerenciamento de branchs. Exercendo o papel de Scrum Master eu ajudei a gerenciar a equipe e o projeto, marcando as reuniões e seguindo os rituais da metodologia SCRUM. Segue abaixo algumas telas e métodos do sistema desenvolvidos por mim.
 
 <details>
 <summary><b>Tela de gerenciamento de Usuário (CRUD)</b></summary>
@@ -210,7 +68,7 @@ Nesse projeto eu assumi o papel de Scrum Master e atuei efetivamente no front-en
 ```bash
 // Método de cadastro de usuario
 cadastrar_usuario() {
-  // Se o usuario não tiver um "cod" significa que esse usuario não existe então ele vai pra resquest de cadastro
+  // Se o usuario não tiver um "cod" significa que esse usuario não existe então ele vai pra request de cadastro
   if (!this.usuario.cod) {
     Usuario.salvar_usuario(this.usuario)
       .then((resposta_cadastro_usuario) => {
@@ -222,6 +80,7 @@ cadastrar_usuario() {
             " cadastrado com sucesso!!!",
           "success"
         );
+        // Chama o método de exibir os usuarios na tela
         this.exibir_usuario();
       })
       .catch((e) => {
@@ -245,6 +104,7 @@ cadastrar_usuario() {
             " atualizado com sucesso!!!",
           "success"
         );
+        // Chama o método de exibir os usuarios na tela
         this.exibir_usuario();
       })
       .catch((e) => {
@@ -258,13 +118,6 @@ cadastrar_usuario() {
   }
 },
 ```
-
-</details>
-
-<details>
-<summary><b>Tela de Fornecedor</b></summary>
-
-<p align="center"> <img src="imagens/tela_fornecedor_1.png" alt="tela de fornecedor" class="center" width=800/> </p>
 
 </details>
 
@@ -323,18 +176,40 @@ deletar_visitante(visitante) {
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Aprofundei meus conhecimentos no framework Vue.js como um todo.
-- [x] Aprendi a trabalhar com API REST no Vuejs.
-- [x] Aprendi a trabalhar com gerencimento de Organizações e Repositórios no GitHub.
-- [x] Aprendi como é gerenciar uma equipe através do método SCRUM.
-- [x] Aprofundei os meus conhecimentos na padrão de projetos MVC, o seu princípio básico é a divisão da aplicação em três camadas: a camada de interação do usuário (view), a camada de manipulação dos dados (model) e a camada de controle (controller).
-- [x] Como utilizamos um framework Javascript para facilitar a programação eu aprofundei os meus conhecimentos no padrão de projetos Facade que é um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes.
-- [x] Como utilizamos o framework Javascript Vue.js aonde temos a estrutura de componentes compondo componentes eu aprofundei os meus conhecimentos no padrão de projetos Composite que é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
+- [x] <b>Vue.js</b>
+    - Aprofundei os meus conhecimentos em Vue.js e no consumi de APIs.
+    - Desenvolvi quase que por completo o Front-end utilizando o framework JavaScript.
+    - Aprofundei os meus conhecimentos em HTML e CSS para desenvolver as telas da aplicação.
+    - Sei fazer com autonomia.
+
+- [x] <b>GIT e GitHub</b>
+    - Aprendi a trabalhar com gerencimento de Organizações e Repositórios no GitHub.
+    - Sei fazer com autonomia.
+
+- [x] <b>SCRUM</b>
+    - Aprendi como é gerenciar uma equipe e um projeto através do método SCRUM.
+    - Sei fazer com autonomia.
+
+- [x] <b>Padrões de Projetos</b>
+    - Aprofundei os meus conhecimentos na padrão de projetos MVC, o seu princípio básico é a divisão da aplicação em três camadas: a camada de interação do usuário (view), a camada de manipulação dos dados (model) e a camada de controle (controller).
+    - Como utilizamos um framework Javascript para facilitar a programação eu aprofundei os meus conhecimentos no padrão de projetos Facade que é um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes.
+    - Como utilizamos o framework Javascript Vue.js aonde temos a estrutura de componentes compondo componentes eu aprofundei os meus conhecimentos no padrão de projetos Composite que é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
+    - Sei fazer com autonomia
 
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Trabalho em equipe
-- [x] Responsabilidade
-- [x] Organização
-- [x] Gestão do tempo
-- [x] Confiança
+- [x] <b>Reponsabilidade</b>
+    - Senti na pele a responsabilidade do cargo de Scrum Master no gerenciamento do projeto.
+    - Sei fazer com autonomia.
+
+- [x] <b>Relacionamento</b>
+    - Devido o cargo de Scrum Master precisei manter um relacionamento hamornioso com todos os membros do grupo.
+    - Sei fazer com autonomia.
+
+- [x] <b>Trabalho em Equipe</b>
+    - Precisei manter todos os membros do grupo entrosados para o bom andamento do projeto.
+    - Sei fazer com autonomia.
+
+- [x] <b>Comunicação</b>
+    - A comunicação foi essencial para lidar com a equipe durante o projeto.
+    - Sei fazer com autonomia.
