@@ -127,4 +127,22 @@ function fetchApi(url) {
 
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
-No meu primeiro semestre na faculdade aprendi a através da metodologia SCRUM o quanto o <i><b>trabalho em equipe</b></i> é importante no <i><b>gerenciamento</b></i> de um projeto para que ele fique <i><b>organizado</b></i> e com um resultado satisfatorio no final. Dentro do SCRUM aprendi que cada membro da equipe fica <i><b>responsável</b></i> pela suas tasks e isso demanda muita <i><b>organização</i></b> e <i><b>confiança</i></b> no seu proprio trabalho.
+- [x] <b>Trabalho em equipe</b>
+    - O trabalho em equipe é sem dúvidas um dos pontos mais importantes no desenvolvimento do projeto como um todo.
+    - Sei fazer com autonomia.
+
+- [x] <b>Gerenciamento</b>
+    - Devido a metodologia SCRUM o gerenciamento de tempo e das tarefas é fundamental para o bom desenvolvimento do projeto.
+    - Sei fazer com autonomia.
+
+- [x] <b>Organização</b>
+    - A organização é essencial para um bom fluxo de trabalho no projeto.
+    - Sei fazer com autonomia.
+
+- [x] <b>Responsabilidade</b>
+    - A responsabilidade é essencial dentro do SCRUM para a realização das tasks de maneira correta e no tempo certo.
+    - Sei fazer com autonomia.
+
+- [x] <b>Confiança</b>
+    - A confiança em si mesmo e no grupo é fundamental, é necessario confiar no grupo para a boa realização do projeto.
+    - Sei fazer com autonomia.
