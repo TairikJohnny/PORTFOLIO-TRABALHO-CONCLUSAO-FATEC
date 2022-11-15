@@ -177,7 +177,7 @@ deletar_visitante(visitante) {
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
 - [x] <b>Vue.js</b>
-    - Aprofundei os meus conhecimentos em Vue.js e no consumi de APIs.
+    - Aprofundei os meus conhecimentos em Vue.js e no consumo de APIs.
     - Desenvolvi quase que por completo o Front-end utilizando o framework JavaScript.
     - Aprofundei os meus conhecimentos em HTML e CSS para desenvolver as telas da aplicação.
     - Sei fazer com autonomia.
