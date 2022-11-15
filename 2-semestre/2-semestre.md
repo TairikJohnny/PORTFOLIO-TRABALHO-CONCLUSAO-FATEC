@@ -137,4 +137,22 @@ public void update() throws SQLException {
 
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
-Neste projeto tivemos um cliente real que trouxe desafios reais a serem <i><b>superados</i></b>, neste projeto tivemos <i><b>autonomia</i></b> para <i><b>organizar</i></b> as tarefas e <i><b>disciplina</i></b> para executar as mesmas, novamente tivemos que <i><b>trabalhar em equipe</i></b> para <i><b>executar</i></b> com excelência as tasks do projeto.
+- [x] <b>Superação</b>
+    - Tivemos que superar diversos desafios reais neste projeto.
+    - Sei fazer com autonomia.
+
+- [x] <b>Autonomia</b>
+    - A autonomia do grupo foi essencial para o gerenciamento das tasks.
+    - Sei fazer com autonomia.
+
+- [x] <b>Organização</b>
+    - A organização pessoal é importante para a entrega correta das tasks e das sprints.
+    - Sei fazer com autonomia.
+
+- [x] <b>Disciplina</b>
+    - A disciplina é fundamental para uma boa organização do projeto.
+    - Sei fazer com autonomia.
+
+- [x] <b>Trabalho em equipe</b>
+    - Novamente o trabalho em equipe é sem dúvidas um dos pontos mais importantes no desenvolvimento do projeto como um todo.
+    - Sei fazer com autonomia.
