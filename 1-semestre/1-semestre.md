@@ -101,17 +101,30 @@ function fetchApi(url) {
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Comecei a aprender versionamento de código via GIT.
-- [x] Comecei a aprender a gerenciar projetos no GitHub.
-- [x] Comecei a aprender metodologias ágeis com Scrum.
-- [x] Comecei a aprender JavaScript.
-- [x] Comecei a aprender a consumir APIs.
-- [x] Aprofundei os meus conhecimentos em HTML e CSS.
+- [x] <b>Versionamento de código via GIT</b>
+    - Foi o meu primeiro contato com versionamento e GIT, aprendi a importância da ferramenta no dia-a-dia de um desenvolvedor e aprendi a utilizar e implemetar em projetos.
+    - Sei fazer com ajuda.
+
+- [x] <b>Gerenciar projetos no GitHub</b>
+    - Foi o meu primeiro contato com o GitHub, aprendi a importância da ferramenta no gerenciamento de projetos e aprendi a utilizar e implemetar em projetos.
+    - Sei fazer com ajuda.
+
+- [x] <b>Metodologias ágeis com Scrum</b>
+    - Foi o meu primeiro contato com o SCRUM, aprendi a importância da metodologia no gerenciamento de projetos e aprendi os rituais do SCRUM.
+    - Sei fazer com ajuda.
+
+- [x] <b>JavaScript</b>
+    - Foi o meu primeiro contato com o JavaScript, aprendi a consumir APIs públicas e mostrar as informações para o usuário.
+    - Sei fazer com ajuda.
+
+- [x] <b>Consumir APIs</b>
+    - Foi o meu primeiro contato com APIs, aprendi a consumir APIs públicas e aprendi a importância de uma API no mundo do desenvolvimento.
+    - Sei fazer com ajuda.
+
+- [x] <b>HTML e CSS</b>
+    - Apronfundei os meus conhecimentos em HTML e CSS, aprendi a mostrar para o usuário o retorno de uma API.
+    - Sei fazer com ajuda.
 
 <h4 align="center">Soft Skills Efetivamente Desenvolvidas</h4>
 
-- [x] Trabalho em equipe
-- [x] Responsabilidade
-- [x] Organização
-- [x] Gestão do tempo
-- [x] Confiança
+No meu primeiro semestre na faculdade aprendi a através da metodologia SCRUM o quanto o <i><b>trabalho em equipe</b></i> é importante no <i><b>gerenciamento</b></i> de um projeto para que ele fique <i><b>organizado</b></i> e com um resultado satisfatorio no final. Dentro do SCRUM aprendi que cada membro da equipe fica <i><b>responsável</b></i> pela suas tasks e isso demanda muita <i><b>organização</i></b> e <i><b>confiança</i></b> no seu proprio trabalho.
