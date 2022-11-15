@@ -112,15 +112,15 @@ public void update() throws SQLException {
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
-- [x] <b>Versionamento de código via GIT</b>
+- [x] <b>GIT</b>
     - Aprofundei os meus conhecimentos em versionamento de código via GIT.
     - Sei fazer com autonomia.
 
-- [x] <b>Gerenciar projetos no GitHub</b>
+- [x] <b>GitHub</b>
     - Aprofundei os meus conhecimentos em gerenciamento de projetos no GitHub.
     - Sei fazer com autonomia.
 
-- [x] <b>Metodologias ágeis com Scrum</b>
+- [x] <b>SCRUm</b>
     - Aprofundei os meus conhecimentos na metodologia SCRUM e seus rituais.
     - Sei fazer com ajuda.
 
