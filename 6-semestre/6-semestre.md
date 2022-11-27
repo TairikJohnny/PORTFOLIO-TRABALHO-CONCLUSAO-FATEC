@@ -59,7 +59,13 @@ O projeto realizado em parceira com a [Dom Rock](https://www.domrock.net/) que �
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-Nesse projeto eu atuei como Scrum Master e atuei efetivamente no desenvolvimento de uma Inteligência Artificial utilizando Séries Temporais. Ajudei no desenvolvimento da documentação do projeto. Segue abaixo o desenvolvimento da IA.
+Nesse projeto eu atuei como Scrum Master e atuei efetivamente no desenvolvimento de uma Inteligência Artificial utilizando Séries Temporais para tentar prever o valor monetário de ganhos e perdas dos possíveis casos resultantes dos cruzamentos de dados dos planos de saúde e dos beneficiários. Ajudei no desenvolvimento da documentação do projeto. Segue abaixo o desenvolvimento da IA.
+
+[Série temporal com Arima](python/API_Serie_Temporal_ARIMA.ipynb)
+
+[Série temporal com Skforecast](python/API_Serie_Temporal_Skforecast.ipynb)
+
+<p align="center"> <img src="python/API_Serie_Temporal_ARIMA.ipynb" alt="CATE - Coleta Análise Tratamento Exibição" class="center"/> </p>
 
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
