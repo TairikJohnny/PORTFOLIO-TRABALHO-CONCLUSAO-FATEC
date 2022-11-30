@@ -16,7 +16,7 @@ Link para o repositório do projeto
 Resumo
 </h3>
 
-O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal, o desafio foi criar uma assistente de voz que vai auxiliar o usuário a organizar e planejar a sua viagem e estadia consumindo APIs públicas. Este projeto beneficiou o meu aprendizado e minha autonomia como aluno, pois, pude estudar diversas tecnologias que nunca havia trabalhado e como consequência também tive dificuldades em estudar essas tecnologias e aplicá-las de forma eficiente trazendo o melhor resultado para o projeto.
+O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal, o desafio foi criar uma assistente de voz que vai auxiliar o usuário a organizar e planejar a sua viagem e estadia consumindo APIs públicas. Este projeto beneficiou o meu aprendizado e minha autonomia como aluno, pois, pude estudar diversas tecnologias que nunca havia trabalhado e como consequência também tive dificuldades em estudar essas tecnologias e aplicá-las de forma eficiente trazendo o melhor resultado para o projeto. 
 
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
