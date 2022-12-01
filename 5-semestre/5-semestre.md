@@ -16,7 +16,7 @@ Link para o repositório do projeto
 Resumo
 </h3>
 
-Projeto realizado em parceria com o [SPC](https://www.spcbrasil.org.br/) que é uma organização de gestão e inteligência de dados que entrega soluções de crédito, cobrança, antifraude, marketing e certificação digital juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal. O projeto desenvolvido consiste em um sistema para buscar novas receitas através da criação de novas segmentações de clientes para a empresa parceira. Desafio proposto pela SPC - "Temos um novo desafio na área de vendas que é buscar novas receitas através da criação de novas segmentações de clientes. Para isso, precisaremos da criação de novos modelos de dados e indicadores que suportarão as estratégias de vendas (contato com clientes e prospects observando as suas particularidades relacionadas a segmentos, verticais de atuação, consumo e potencial de consumo)."
+Projeto realizado em parceria com o [SPC](https://www.spcbrasil.org.br/) que é uma organização de gestão e inteligência de dados que entrega soluções de crédito, cobrança, antifraude, marketing e certificação digital juntamente com a Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal. O projeto desenvolvido consiste em um sistema para buscar novas receitas através da criação de novas segmentações de clientes para a empresa parceira. Desafio proposto pela SPC - "Temos um novo desafio na área de vendas que é buscar novas receitas através da criação de novas segmentações de clientes. Para isso, precisaremos da criação de novos modelos de dados e indicadores que suportarão as estratégias de vendas (contato com clientes e prospects observando as suas particularidades relacionadas a segmentos, verticais de atuação, consumo e potencial de consumo)". Este projeto foi um dos mais interessantes de se trabalhar, o projeto me proporcionou diversos conhecimentos novos na área de desenvolvimento como upload de arquivos e geração de gráficos e na área de DevOps aprendi a importância dos processos para desenvolver uma aplicação madura e eficiente. Tive algumas dificuldade e impedimentos no começo do projeto devido a falta de conhecimento técnico e a falta de conteúdos específicos na área de DevOps, mas com a ajuda dos professores e com a autonomia nos estudos eu consegui localizar os conteúdos e estudar para desenvolver a melhor solução possível para o cliente.
 
 <h3 align="center">Tecnologias adotadas na solução</h3>
 
@@ -84,7 +84,7 @@ Projeto realizado em parceria com o [SPC](https://www.spcbrasil.org.br/) que é 
 
 <h3 align="center">Contribuições individuais/pessoais</h3>
 
-Nesse projeto, eu atuei como Scrum Master e atuei efetivamente no front-end desenvolvendo as principais telas do sistema. Ajudei na implementação das demandas de Devops e no deploy da aplicação na Heroku. Ajudei, no desenvolvimento da documentação do projeto. Segue abaixo algumas telas do sistema desenvolvidos por mim.
+Nesse projeto, eu atuei como Scrum Master e atuei efetivamente no front-end desenvolvendo as principais telas e features do sistema. Ajudei na implementação das demandas de DevOps e no deploy da aplicação na Heroku. Ajudei, no desenvolvimento da documentação do projeto. Segue abaixo algumas telas do sistema desenvolvidos por mim.
 
 <p align="center">Demonstração da tela de Gestão de Usuários(CRUD)</p>
 
