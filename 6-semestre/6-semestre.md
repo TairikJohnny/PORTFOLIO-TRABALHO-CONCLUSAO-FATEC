@@ -65,8 +65,6 @@ Nesse projeto eu atuei como Scrum Master e atuei efetivamente no desenvolvimento
 
 [Série temporal com Skforecast](python/API_Serie_Temporal_Skforecast.ipynb)
 
-<p align="center"> <img src="python/API_Serie_Temporal_ARIMA.ipynb" alt="CATE - Coleta Análise Tratamento Exibição" class="center"/> </p>
-
 <h4 align="center">Hard Skills Efetivamente Desenvolvidas</h4>
 
 - [x] <b>Python</b>
