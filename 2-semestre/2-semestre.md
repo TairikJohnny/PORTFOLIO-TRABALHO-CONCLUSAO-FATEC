@@ -120,12 +120,13 @@ public void update() throws SQLException {
     - Aprofundei os meus conhecimentos em gerenciamento de projetos no GitHub.
     - Sei fazer com autonomia.
 
-- [x] <b>SCRUm</b>
+- [x] <b>SCRUM</b>
     - Aprofundei os meus conhecimentos na metodologia SCRUM e seus rituais.
     - Sei fazer com ajuda.
 
 - [x] <b>Java</b>
     - Aprofundei os meus conhecimentos na linguagem de programação Java.
+    - Aprofundei os meus conhecimentos em Programação Orientada a Objetos(POO).
     - Aprendi a conectar o Java com um banco de dados MySql via JDBC.
     - Aprendi a criar interface gráfica com o Java Swing.
     - Sei fazer com ajuda.
