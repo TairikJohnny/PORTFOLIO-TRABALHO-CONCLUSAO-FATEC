@@ -42,7 +42,7 @@ Tenho 22 anos e, atualmente, sou Desenvolvedor Full Stack Junior na empresa [Gru
 
 ### API 2º SEMESTRE - 2020-2
 [Projeto](https://github.com/TairikJohnny/PORTFOLIO-TRABALHO-CONCLUSAO-FATEC/blob/main/2-semestre/2-semestre.md)
-- Projeto realizado em parceria com a [Tecsus](https://tecsus.com.br/), o desafio foi desenvolver um sistema para facilitar a digitação manual das contas, assim, permitindo o cadastro de rápida e ágil, sem a necessidade de utilização do mouse, apenas por comandos do teclado. 
+- Projeto realizado em parceria com a [Tecsus](https://tecsus.com.br/), o desafio foi desenvolver um sistema para facilitar a digitação manual das contas, assim, permitindo o cadastro de forma rápida e ágil, sem a necessidade de utilização do mouse, apenas por comandos do teclado. 
 
 ### API 3º SEMESTRE - 2021-1
 [MOM - Management of Operational Manuals](https://github.com/TairikJohnny/PORTFOLIO-TRABALHO-CONCLUSAO-FATEC/blob/main/3-semestre/3-semestre.md)
