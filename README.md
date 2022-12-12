@@ -40,8 +40,6 @@ Tenho 22 anos e atualmente sou Desenvolvedor Full Stack Junior na empresa [Grupo
 [NUNA, sua assistente de voz para viagens](https://github.com/TairikJohnny/PORTFOLIO-TRABALHO-CONCLUSAO-FATEC/blob/main/1-semestre/1-semestre.md)
 - O projeto foi proposto pelos professores do 1º semestre da Faculdade de Tecnologia de São José dos Campos Professor Jessen Vidal, o desafio foi criar uma assistente de voz que auxilia o usuário a organizar e planejar a sua viagem e estadia consumindo APIs públicas.
 
-[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=https://github.com/arienemaiara/assistente-voz-viagens)](https://github.com/arienemaiara/assistente-voz-viagens)
-
 ### API 2º SEMESTRE - 2020-2
 [Projeto](https://github.com/TairikJohnny/PORTFOLIO-TRABALHO-CONCLUSAO-FATEC/blob/main/2-semestre/2-semestre.md)
 - Projeto realizado em parceria com a [Tecsus](https://tecsus.com.br/), o desafio foi desenvolver um sistema para facilitar a digitação manual das contas, permitindo assim, o cadastro de forma rápida e ágil sem ser necessário o uso do mouse apenas com comandos do teclado. 
