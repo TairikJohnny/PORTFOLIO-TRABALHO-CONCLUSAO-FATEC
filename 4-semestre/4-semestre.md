@@ -191,7 +191,7 @@ deletar_visitante(visitante) {
     - Sei fazer com autonomia.
 
 - [x] <b>Padrões de Projetos</b>
-    - Aprofundei os meus conhecimentos no padrão de projetos MVC, o seu princípio básico é a divisão da aplicação em três camadas: a camada de interação do usuário (view), a camada de manipulação dos dados (model) e a camada de controle (controller).
+    - Aprofundei os meus conhecimentos no padrão de projetos MVC, o seu princípio básico é a divisão da aplicação em três camadas: A camada de interação do usuário (view), a camada de manipulação dos dados (model) e a camada de controle (controller).
     - Como utilizamos um framework Javascript para facilitar a programação eu aprofundei os meus conhecimentos no padrão de projetos Facade que é um padrão de projeto estrutural que fornece uma interface simplificada para uma biblioteca, um framework, ou qualquer conjunto complexo de classes.
     - Como utilizamos o framework Javascript Vue.js aonde temos a estrutura de componentes compondo componentes eu aprofundei os meus conhecimentos no padrão de projetos Composite que é um padrão de projeto estrutural que permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
     - Sei fazer com autonomia
