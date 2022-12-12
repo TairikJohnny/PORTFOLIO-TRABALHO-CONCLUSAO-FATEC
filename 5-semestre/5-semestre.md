@@ -141,6 +141,7 @@ Nesse projeto, eu atuei como Scrum Master e atuei efetivamente no front-end dese
     - Desenvolvi 90% do Front-end utilizando o framework JavaScript.
     - Aprofundei os meus conhecimentos em HTML e CSS para desenvolver as telas da aplicação.
     - Aprendi a criar gráficos no Vue.js.
+    - Aprendi a realizar o upload de arquivos.
     - Ensinei os membros do grupo que não sabiam utilizar o framework.
     - Sei ensinar.
 
