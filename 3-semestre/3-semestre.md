@@ -128,7 +128,7 @@ closeReview() {
     - Sei fazer com autonomia.
 
 - [x] <b>Responsabilidade</b>
-    - Precise assumir a responsabilidade do cargo de Scrum Master devido a saída do mesmo.
+    - Precisei assumir a responsabilidade do cargo de Scrum Master devido a saída do mesmo.
     - Sei fazer com autonomia.
 
 - [x] <b>Trabalho em Equipe</b>
